@@ -1,0 +1,136 @@
+{"image":"ps4ss_acetone_con0_3_insoluble_jpg.rf.e47e2aa5cea6ef4377d3515ca988f2a2.jpg","prefix":"detect laser ; solid","suffix":"<loc0844><loc0358><loc0998><loc0516> solid"}
+{"image":"pva_acetone_con0_3_insoluble_jpg.rf.bb7cdbefa6800a335558f4c796ca1ed9.jpg","prefix":"detect laser ; solid","suffix":"<loc0861><loc0364><loc1001><loc0520> solid"}
+{"image":"ps4ss_dcm_con0_5_insoluble_jpg.rf.1228b0c9aa704defdf7b9b5412bcaecd.jpg","prefix":"detect laser ; solid","suffix":"<loc0806><loc0366><loc0985><loc0526> solid"}
+{"image":"pmma_water_con0_7_partialsoluble_jpg.rf.90456d9a142fed16b1e1c80bde8ba2f6.jpg","prefix":"detect laser ; solid","suffix":"<loc0567><loc0352><loc0797><loc0514> laser ; <loc0256><loc0350><loc0505><loc0509> solid"}
+{"image":"ps_ethanol_con0_5_insoluble_jpg.rf.920a79a133569ce19317a293237ea6d1.jpg","prefix":"detect laser ; solid","suffix":"<loc0876><loc0377><loc1003><loc0534> solid"}
+{"image":"ps_ipa_con0_3_insoluble_jpg.rf.c34ba10af9704193fbf962329e748b58.jpg","prefix":"detect laser ; solid","suffix":"<loc0874><loc0361><loc0988><loc0528> solid"}
+{"image":"ps_ipa_con1_partialsoluble_jpg.rf.579a3813534f35370aca9bd899b130f7.jpg","prefix":"detect laser ; solid","suffix":"<loc0574><loc0360><loc0796><loc0522> laser ; <loc0866><loc0364><loc0984><loc0520> solid"}
+{"image":"pva_acetone_con0_7_insoluble_jpg.rf.49e00c74625bd6f2ef9cb74cbf9308c5.jpg","prefix":"detect laser ; solid","suffix":"<loc0844><loc0366><loc0989><loc0521> solid"}
+{"image":"ps4ss_ipa_con1_insoluble_jpg.rf.52c1bcbf6b2e9cb04e1e2d443000b307.jpg","prefix":"detect laser ; solid","suffix":"<loc0814><loc0366><loc0994><loc0527> solid"}
+{"image":"ps_ethanol_con0_5_withoutlens_repeat_insoluble_jpg.rf.96988d12b6c884859beb4878bf145184.jpg","prefix":"detect laser ; solid","suffix":"<loc0701><loc0389><loc0854><loc0573> solid"}
+{"image":"peg600_etoac_con0_5_soluble_jpg.rf.0da979dbddcbf26a0c01cb67ffe07ec8.jpg","prefix":"detect laser ; solid","suffix":""}
+{"image":"pva_acetone_con0_1_insoluble_jpg.rf.efcedefd8ae6c28fa4b4f9ded143cd49.jpg","prefix":"detect laser ; solid","suffix":"<loc0893><loc0369><loc1006><loc0528> solid"}
+{"image":"ps_etoac_con0_7_colloidal_jpg.rf.e23e282090cfc75b5287bf6858364a39.jpg","prefix":"detect laser ; solid","suffix":"<loc0577><loc0366><loc0787><loc0539> laser"}
+{"image":"pmma_water_con1_partialsoluble_jpg.rf.39760269c08b84ecf3e80c3c432e28d7.jpg","prefix":"detect laser ; solid","suffix":"<loc0243><loc0348><loc0478><loc0518> solid ; <loc0564><loc0356><loc0795><loc0524> laser"}
+{"image":"ps4ss_acetone_con1_insoluble_jpg.rf.48760203a47aaf4a40dddff51b2814cd.jpg","prefix":"detect laser ; solid","suffix":"<loc0822><loc0364><loc0975><loc0521> solid"}
+{"image":"ps_ipa_con0_5_insoluble_jpg.rf.e2bd246cfe85c2f4039a9541aaf82301.jpg","prefix":"detect laser ; solid","suffix":"<loc0862><loc0362><loc0986><loc0518> solid"}
+{"image":"pmma_toluene_con0_5_withlens_repeat_colloidal_jpg.rf.84b08bc85051fcebdea5595623702d49.jpg","prefix":"detect laser ; solid","suffix":"<loc0382><loc0347><loc0595><loc0545> laser"}
+{"image":"acetonitrile_pcl_con1_colloidal_jpg.rf.4b6017d159b3717188c5d9c4f9c8ab62.jpg","prefix":"detect laser ; solid","suffix":"<loc0533><loc0287><loc0695><loc0541> laser"}
+{"image":"ps4ss_ethanol_con0_5_insoluble_jpg.rf.dac104f1cae3282e5f1a2a5abf02d2d3.jpg","prefix":"detect laser ; solid","suffix":"<loc0824><loc0356><loc0979><loc0511> solid"}
+{"image":"pmma_toluene_con0_7_withoutlens_repeat_colloidal_jpg.rf.26fcd0d955ed6679a67fc4260ed3f65d.jpg","prefix":"detect laser ; solid","suffix":"<loc0465><loc0380><loc0563><loc0568> laser"}
+{"image":"ps_ethanol_con0_5_withlens_repeat_insoluble_jpg.rf.4d1d89b231c94b5d3a2fe40c05b4261a.jpg","prefix":"detect laser ; solid","suffix":"<loc0735><loc0340><loc0871><loc0529> solid"}
+{"image":"ps_thf_con0_5_colloidal_jpg.rf.c5b7f207f19102fe8c774fd3a889d052.jpg","prefix":"detect laser ; solid","suffix":"<loc0573><loc0366><loc0797><loc0528> laser"}
+{"image":"ps4ss_ethanol_con0_7_insoluble_jpg.rf.aec59452f5ad783f065aac45e97a1ff7.jpg","prefix":"detect laser ; solid","suffix":"<loc0823><loc0364><loc0979><loc0523> solid"}
+{"image":"ps4ss_ethanol_con1_insoluble_jpg.rf.8fbe4078303f2e63ffeb897725e3ef89.jpg","prefix":"detect laser ; solid","suffix":"<loc0834><loc0362><loc0985><loc0520> solid"}
+{"image":"ps4ss_thf_con0_1_insoluble_jpg.rf.b7af282ce91ecd08b288974df9165668.jpg","prefix":"detect laser ; solid","suffix":"<loc0855><loc0362><loc0979><loc0520> solid"}
+{"image":"ps4ss_water_con1_colloidal_jpg.rf.7ddf1bbf36448cf66c92c034de919e5f.jpg","prefix":"detect laser ; solid","suffix":"<loc0578><loc0348><loc0797><loc0512> laser"}
+{"image":"ps_ipa_con0_5_withlens_repeat_insoluble_jpg.rf.9a2e0e5afa73af0be809f1ad9f575899.jpg","prefix":"detect laser ; solid","suffix":"<loc0720><loc0356><loc0869><loc0541> solid"}
+{"image":"ps_etoac_con0_1_colloidal_jpg.rf.73127102c957ab57bdc9c48f26fffc36.jpg","prefix":"detect laser ; solid","suffix":"<loc0574><loc0360><loc0793><loc0524> laser"}
+{"image":"ps_thf_con0_7_colloidal_jpg.rf.66b3db1a2197d42e02fc380386598eda.jpg","prefix":"detect laser ; solid","suffix":"<loc0573><loc0361><loc0795><loc0523> laser"}
+{"image":"ps_dcm_con0_5_withlens_repeat_colloidal_jpg.rf.430b96410a68043f22cf9bcc32eb20e9.jpg","prefix":"detect laser ; solid","suffix":"<loc0385><loc0346><loc0598><loc0549> laser"}
+{"image":"ps4ss_ethanol_con0_1_insoluble_jpg.rf.dc9ff71d06e7ff71e2c4063875dce20b.jpg","prefix":"detect laser ; solid","suffix":"<loc0842><loc0361><loc0983><loc0523> solid"}
+{"image":"ps_water_con0_1_insoluble_jpg.rf.e8342dc39e1555edfb5de1823e08fa9e.jpg","prefix":"detect laser ; solid","suffix":"<loc0861><loc0366><loc0992><loc0524> solid"}
+{"image":"ps4ss_water_con0_5_withlens_repeat_colloidal_jpg.rf.9abc2aaa26d5870f27be42cc5fd252c5.jpg","prefix":"detect laser ; solid","suffix":"<loc0406><loc0350><loc0586><loc0544> laser"}
+{"image":"pva_ethanol_con0_7_insoluble_jpg.rf.470080472c3dcd0c3938cc515f8efa93.jpg","prefix":"detect laser ; solid","suffix":"<loc0856><loc0374><loc1001><loc0532> solid"}
+{"image":"ps4ss_water_con0_3_soluble_jpg.rf.ede5c0967488d661a67e976f72a73127.jpg","prefix":"detect laser ; solid","suffix":""}
+{"image":"ps4ss_etoac_con0_7_insoluble_jpg.rf.a6ab4b9e48cca9d26a1143d10be53132.jpg","prefix":"detect laser ; solid","suffix":"<loc0829><loc0369><loc0987><loc0523> solid"}
+{"image":"pva_dcm_con0_1_insoluble_jpg.rf.57b7c59b63049fd188732c9d41338ed0.jpg","prefix":"detect laser ; solid","suffix":"<loc0497><loc0349><loc0796><loc0514> solid"}
+{"image":"ps4ss_dcm_con1_insoluble_jpg.rf.e308345a1907ac32f6cdb69e4bd34f3e.jpg","prefix":"detect laser ; solid","suffix":"<loc0807><loc0364><loc0967><loc0524> solid"}
+{"image":"ps4ss_heptane_con0_1_partialsoluble_jpg.rf.b3a26172fd34880b5f5a474457c8aa0c.jpg","prefix":"detect laser ; solid","suffix":"<loc0878><loc0362><loc0976><loc0514> solid ; <loc0574><loc0356><loc0793><loc0516> laser"}
+{"image":"pva_ethanol_con0_1_insoluble_jpg.rf.f678db246d4b679f8a04e2c6f87271ce.jpg","prefix":"detect laser ; solid","suffix":"<loc0877><loc0366><loc0996><loc0526> solid"}
+{"image":"ps4ss_etoac_con0_5_insoluble_jpg.rf.f1f7f44dff35cd8f33591fe12405e749.jpg","prefix":"detect laser ; solid","suffix":"<loc0816><loc0359><loc0984><loc0512> solid"}
+{"image":"ps_heptane_con0_3_insoluble_jpg.rf.dd2ef99c03c87ae25db19006e30e1d8c.jpg","prefix":"detect laser ; solid","suffix":"<loc0880><loc0368><loc1002><loc0528> solid"}
+{"image":"ps_ethanol_con0_1_insoluble_jpg.rf.0715ac8830f103ee3feef477d68fea8a.jpg","prefix":"detect laser ; solid","suffix":"<loc0880><loc0369><loc0996><loc0531> solid"}
+{"image":"ps4ss_dcm_con0_1_insoluble_jpg.rf.2c32604f829b1d998979b71e35209eff.jpg","prefix":"detect laser ; solid","suffix":"<loc0817><loc0362><loc0969><loc0519> solid"}
+{"image":"pcl_heptane_con0_5_insoluble_jpg.rf.a79b6b7201cfedc9ce0dca44449e14d5.jpg","prefix":"detect laser ; solid","suffix":"<loc0866><loc0380><loc1008><loc0541> solid"}
+{"image":"ps_toluene_con0_7_colloidal_jpg.rf.af5a21b4586e89ee4dad8f812f736781.jpg","prefix":"detect laser ; solid","suffix":"<loc0578><loc0352><loc0803><loc0517> laser"}
+{"image":"pmma_toluene_con1_colloidal_jpg.rf.baddc0348a802d26e802015521aa1ea0.jpg","prefix":"detect laser ; solid","suffix":"<loc0571><loc0356><loc0802><loc0523> laser"}
+{"image":"ps_dcm_con1_colloidal_jpg.rf.165738fa16e68ced94b12c0032f70a9e.jpg","prefix":"detect laser ; solid","suffix":"<loc0588><loc0358><loc0802><loc0516> laser"}
+{"image":"pva_acetone_con0_5_insoluble_jpg.rf.2393a6c9502d269ebf81f8e940c4ded6.jpg","prefix":"detect laser ; solid","suffix":"<loc0849><loc0375><loc0988><loc0530> solid"}
+{"image":"ps4ss_heptane_con1_insoluble_jpg.rf.33221e8cb882c1c2c531df65a80b4418.jpg","prefix":"detect laser ; solid","suffix":"<loc0820><loc0362><loc0982><loc0525> solid"}
+{"image":"ps_dcm_con0_1_colloidal_jpg.rf.63320f6cea78d30eca06cab63364d3f4.jpg","prefix":"detect laser ; solid","suffix":"<loc0572><loc0367><loc0795><loc0530> laser"}
+{"image":"ps_toluene_con1_colloidal_jpg.rf.3bc951e9249b2bc32b351f298f306b43.jpg","prefix":"detect laser ; solid","suffix":"<loc0571><loc0361><loc0799><loc0518> laser"}
+{"image":"ps4ss_thf_con0_3_insoluble_jpg.rf.9cd20a078546ed7b5fca104ae207ac84.jpg","prefix":"detect laser ; solid","suffix":"<loc0848><loc0363><loc0972><loc0515> solid"}
+{"image":"ps_toluene_con0_1_colloidal_jpg.rf.86e5f72294a96ada6d4119341910a144.jpg","prefix":"detect laser ; solid","suffix":"<loc0574><loc0357><loc0802><loc0522> laser"}
+{"image":"ps_ethanol_con0_1_withlens_repeat_insoluble_jpg.rf.5e021226337c1c6faa2b850531ae7ed2.jpg","prefix":"detect laser ; solid","suffix":"<loc0726><loc0371><loc0855><loc0552> solid"}
+{"image":"ps_toluene_con0_3_colloidal_jpg.rf.0f41f7955c8774638008f8b64242b12e.jpg","prefix":"detect laser ; solid","suffix":"<loc0566><loc0360><loc0793><loc0519> laser"}
+{"image":"ps4ss_ethanol_con0_3_insoluble_jpg.rf.ca38bfbdfae1e16731ca6f733f193974.jpg","prefix":"detect laser ; solid","suffix":"<loc0855><loc0358><loc0984><loc0523> solid"}
+{"image":"ps_water_con0_5_insoluble_jpg.rf.edec92144d3c4782ad835d104ef60354.jpg","prefix":"detect laser ; solid","suffix":"<loc0888><loc0361><loc1011><loc0521> solid"}
+{"image":"ps_etoac_con0_3_colloidal_jpg.rf.b862226c5e3ddd58b48946cb0f2faaad.jpg","prefix":"detect laser ; solid","suffix":"<loc0575><loc0364><loc0795><loc0524> laser"}
+{"image":"ps4ss_etoac_con0_3_insoluble_jpg.rf.2232f45b66c79c651b56a71b81240dc9.jpg","prefix":"detect laser ; solid","suffix":"<loc0832><loc0358><loc0994><loc0513> solid"}
+{"image":"ps4ss_toluene_con0_7_insoluble_jpg.rf.38f90c789f02f20d298ffc99f1be3955.jpg","prefix":"detect laser ; solid","suffix":"<loc0839><loc0354><loc0998><loc0516> solid"}
+{"image":"pmma_ipa_con0_7_insoluble_jpg.rf.966f981d08aea6a410e9ccf7ad6cfe10.jpg","prefix":"detect laser ; solid","suffix":"<loc0871><loc0372><loc1000><loc0533> solid"}
+{"image":"pmma_thf_con0_1_soluble_jpg.rf.b7cde05c094b6121267216cd61b69c95.jpg","prefix":"detect laser ; solid","suffix":""}
+{"image":"ps4ss_water_con0_7_colloidal_jpg.rf.fc07b2e3884c21aef5e81248e900c4e0.jpg","prefix":"detect laser ; solid","suffix":"<loc0576><loc0357><loc0797><loc0517> laser"}
+{"image":"ps_acetone_con0_1_withlens_repeat_partialsoluble_jpg.rf.106fe44e7162fe793e4593f37838c766.jpg","prefix":"detect laser ; solid","suffix":"<loc0389><loc0346><loc0585><loc0543> laser ; <loc0709><loc0358><loc0846><loc0540> solid"}
+{"image":"pmma_toluene_con0_3_soluble_jpg.rf.6dc6b1ddda7d636ef4af9a5a4931d6d1.jpg","prefix":"detect laser ; solid","suffix":""}
+{"image":"ps4ss_toluene_con0_3_insoluble_jpg.rf.dc5a98e5a43bff7a52cb1d51592475f6.jpg","prefix":"detect laser ; solid","suffix":"<loc0839><loc0364><loc0994><loc0518> solid"}
+{"image":"ps4ss_acetone_con0_5_insoluble_jpg.rf.d7deddfe4a466eb4d20f4d87a57e69d1.jpg","prefix":"detect laser ; solid","suffix":"<loc0830><loc0360><loc0978><loc0520> solid"}
+{"image":"ps_heptane_con0_7_insoluble_jpg.rf.9269838b12df55df606a371fc870a6a8.jpg","prefix":"detect laser ; solid","suffix":"<loc0872><loc0355><loc0996><loc0518> solid"}
+{"image":"ps_ethanol_con0_7_withlens_repeat_insoluble_jpg.rf.7bfd5bec23dc5c3d935a88953d7e6a7a.jpg","prefix":"detect laser ; solid","suffix":"<loc0718><loc0364><loc0859><loc0542> solid"}
+{"image":"ps4ss_etoac_con0_1_insoluble_jpg.rf.59b0434270b6f84aac1bb3cfd10bfc0e.jpg","prefix":"detect laser ; solid","suffix":"<loc0848><loc0360><loc0966><loc0522> solid"}
+{"image":"ps4ss_acetone_con0_1_insoluble_jpg.rf.250437441a9d6eb004a6639d53c7110e.jpg","prefix":"detect laser ; solid","suffix":"<loc0851><loc0356><loc0977><loc0514> solid"}
+{"image":"pva_dcm_con0_3_insoluble_jpg.rf.9ddae892bc4dbaaed40e669fa33ded99.jpg","prefix":"detect laser ; solid","suffix":"<loc0567><loc0358><loc0823><loc0518> solid"}
+{"image":"ps4ss_toluene_con0_1_insoluble_jpg.rf.2163956bc78012ed643696f8116d2f5f.jpg","prefix":"detect laser ; solid","suffix":"<loc0830><loc0362><loc0989><loc0520> solid"}
+{"image":"ps_ipa_con0_5_withoutlens_repeat_insoluble_jpg.rf.bb276213d4fb5f9d218b158c35673ee2.jpg","prefix":"detect laser ; solid","suffix":"<loc0696><loc0398><loc0856><loc0590> solid"}
+{"image":"ps4ss_dcm_con0_7_insoluble_jpg.rf.90d6fce273501cdd611a2bf7ec609a40.jpg","prefix":"detect laser ; solid","suffix":"<loc0818><loc0362><loc0984><loc0520> solid"}
+{"image":"pmma_toluene_con0_5_withoutlens_repeat_colloidal_jpg.rf.2db7230593f2ab38bbab2d497731a40e.jpg","prefix":"detect laser ; solid","suffix":"<loc0465><loc0384><loc0558><loc0571> laser"}
+{"image":"ps4ss_ipa_con0_1_insoluble_jpg.rf.29d0fc5b6cc6dc71bfa418838d0f015e.jpg","prefix":"detect laser ; solid","suffix":"<loc0874><loc0362><loc0988><loc0521> solid"}
+{"image":"ps_acetone_con0_3_partialsoluble_jpg.rf.94cb9376691276a6245942cd178402aa.jpg","prefix":"detect laser ; solid","suffix":"<loc0576><loc0354><loc0800><loc0516> laser ; <loc0888><loc0346><loc1011><loc0514> solid"}
+{"image":"ps4ss_water_con0_1_soluble_jpg.rf.d6cb2bc1b1529484f93f952a933339c9.jpg","prefix":"detect laser ; solid","suffix":""}
+{"image":"pva_ethanol_con0_3_insoluble_jpg.rf.fb07ab07202a88f389d3c43ba43c47af.jpg","prefix":"detect laser ; solid","suffix":"<loc0880><loc0364><loc0985><loc0521> solid"}
+{"image":"ps_etoac_con1_colloidal_jpg.rf.2ebcdf4fe348d103f68dc292365f3595.jpg","prefix":"detect laser ; solid","suffix":"<loc0571><loc0368><loc0793><loc0540> laser"}
+{"image":"pva_acetone_con1_withoutlens_repeat_insoluble_jpg.rf.22873043240c44060719f1fd4f6e00e4.jpg","prefix":"detect laser ; solid","suffix":"<loc0694><loc0404><loc0836><loc0587> solid"}
+{"image":"pva_dcm_con0_7_insoluble_jpg.rf.f045178307a3971adec5e13fdf336073.jpg","prefix":"detect laser ; solid","suffix":"<loc0552><loc0349><loc0849><loc0527> solid"}
+{"image":"ps_water_con0_7_insoluble_jpg.rf.893d864f4a2acb3ef25031b899f9979f.jpg","prefix":"detect laser ; solid","suffix":"<loc0877><loc0363><loc1011><loc0529> solid"}
+{"image":"ps4ss_dcm_con0_3_insoluble_jpg.rf.e9be7664c54291e39d352ae0fe8a8b57.jpg","prefix":"detect laser ; solid","suffix":"<loc0817><loc0360><loc0985><loc0511> solid"}
+{"image":"ps_ethanol_con0_3_insoluble_jpg.rf.20632bc543e543ab082ff6ffa715d381.jpg","prefix":"detect laser ; solid","suffix":"<loc0871><loc0364><loc0994><loc0525> solid"}
+{"image":"pmma_toluene_con0_1_withoutlens_repeat_colloidal_jpg.rf.360025bec146bd030b079b0d2799b53c.jpg","prefix":"detect laser ; solid","suffix":"<loc0464><loc0381><loc0553><loc0567> laser"}
+{"image":"ps_ethanol_con0_7_withoutlens_repeat_insoluble_jpg.rf.48718013f5a294d2828a6d4d2bd5da8f.jpg","prefix":"detect laser ; solid","suffix":"<loc0691><loc0400><loc0844><loc0580> solid"}
+{"image":"pva_ethanol_con0_5_insoluble_jpg.rf.9c782ca64bfa65b3f8d8b3e8658f20e9.jpg","prefix":"detect laser ; solid","suffix":"<loc0877><loc0358><loc0996><loc0521> solid"}
+{"image":"Acetonitrile_pvp_con1_loop1_colloidal_jpg.rf.48d413229ef2d3f97902d0501064b347.jpg","prefix":"detect laser ; solid","suffix":"<loc0460><loc0423><loc0557><loc0605> laser"}
+{"image":"pva_acetone_con1_insoluble_jpg.rf.926e47697de816f2fdeccc3b47b4a0a7.jpg","prefix":"detect laser ; solid","suffix":"<loc0873><loc0361><loc0998><loc0521> solid"}
+{"image":"ps_thf_con1_colloidal_jpg.rf.84f72ed2b828c5a8c69a3423d3238c84.jpg","prefix":"detect laser ; solid","suffix":"<loc0578><loc0364><loc0797><loc0530> laser"}
+{"image":"pmma_ipa_con1_withlens_repeat_insoluble_jpg.rf.023eab954aa54a4e88147fcca8f11f78.jpg","prefix":"detect laser ; solid","suffix":"<loc0724><loc0346><loc0862><loc0528> solid"}
+{"image":"ps_ethanol_con0_1_withoutlens_repeat_insoluble_jpg.rf.4edc242a381183aa18646e676b268971.jpg","prefix":"detect laser ; solid","suffix":"<loc0714><loc0396><loc0846><loc0573> solid"}
+{"image":"ps4ss_ipa_con0_5_insoluble_jpg.rf.2f69e96439f089925e29b583bf3fbc3b.jpg","prefix":"detect laser ; solid","suffix":"<loc0835><loc0364><loc0990><loc0520> solid"}
+{"image":"ps4ss_thf_con0_5_insoluble_jpg.rf.38656cd0577c5f4d5855c2160d783348.jpg","prefix":"detect laser ; solid","suffix":"<loc0861><loc0356><loc0989><loc0512> solid"}
+{"image":"ps4ss_ipa_con0_7_insoluble_jpg.rf.042371db29d752b0f5ad86e0c7549df8.jpg","prefix":"detect laser ; solid","suffix":"<loc0861><loc0352><loc0992><loc0514> solid"}
+{"image":"ps_dcm_con0_7_colloidal_jpg.rf.732b4e69578e12bca316c8e9a23af08a.jpg","prefix":"detect laser ; solid","suffix":"<loc0578><loc0356><loc0795><loc0522> laser"}
+{"image":"pva_dcm_con1_insoluble_jpg.rf.ced49f5eb78ca136ec68c8487c49d186.jpg","prefix":"detect laser ; solid","suffix":"<loc0320><loc0350><loc0612><loc0519> solid"}
+{"image":"1-Propanol_pvp_con1_loop0_colloidal_jpg.rf.c2b7031bb9587cac2a73aca0b88be134.jpg","prefix":"detect laser ; solid","suffix":"<loc0278><loc0419><loc0481><loc0607> laser"}
+{"image":"ps_heptane_con0_5_insoluble_jpg.rf.8a28fcbda781dad367f07a99f2c727d7.jpg","prefix":"detect laser ; solid","suffix":"<loc0858><loc0364><loc0993><loc0525> solid"}
+{"image":"ps_toluene_con0_5_colloidal_jpg.rf.1341064c2ab68b9ac121a2120b7422ea.jpg","prefix":"detect laser ; solid","suffix":"<loc0570><loc0362><loc0797><loc0523> laser"}
+{"image":"ps_thf_con0_3_colloidal_jpg.rf.462d76f1b4663de54186d4f0ac01cabb.jpg","prefix":"detect laser ; solid","suffix":"<loc0576><loc0358><loc0797><loc0518> laser"}
+{"image":"ps_dcm_con0_3_colloidal_jpg.rf.35c60b30339df7309dae4aacf6bce153.jpg","prefix":"detect laser ; solid","suffix":"<loc0591><loc0349><loc0804><loc0514> laser"}
+{"image":"ps_thf_con0_1_colloidal_jpg.rf.a10167523ccacadf9f273e6bacc82af9.jpg","prefix":"detect laser ; solid","suffix":"<loc0576><loc0367><loc0792><loc0525> laser"}
+{"image":"ps_dcm_con0_5_withoutlens_repeat_colloidal_jpg.rf.c69f9cd38744bf4b3b8b9f4256c240ad.jpg","prefix":"detect laser ; solid","suffix":"<loc0449><loc0385><loc0560><loc0570> laser"}
+{"image":"ps4ss_etoac_con1_insoluble_jpg.rf.c2c1809038df62173ec6ccf462f6d2cf.jpg","prefix":"detect laser ; solid","suffix":"<loc0834><loc0368><loc0992><loc0523> solid"}
+{"image":"ps_ethanol_con1_insoluble_jpg.rf.7b01b6b36f0718cbab14c5149f95b487.jpg","prefix":"detect laser ; solid","suffix":"<loc0851><loc0354><loc0997><loc0518> solid"}
+{"image":"ps4ss_ipa_con0_3_insoluble_jpg.rf.debb03e1dc3b6622c5830a4bbb9e8d16.jpg","prefix":"detect laser ; solid","suffix":"<loc0833><loc0365><loc0984><loc0522> solid"}
+{"image":"ps_ethanol_con0_7_insoluble_jpg.rf.613defc6f629b4e9b1f04b3ba9936113.jpg","prefix":"detect laser ; solid","suffix":"<loc0850><loc0383><loc0987><loc0538> solid"}
+{"image":"ps_etoac_con0_5_colloidal_jpg.rf.d8cf9d3408583f2ef4c5140d8d0d62bf.jpg","prefix":"detect laser ; solid","suffix":"<loc0569><loc0359><loc0801><loc0520> laser"}
+{"image":"ps4ss_heptane_con0_7_insoluble_jpg.rf.ec7a08d9f1fa1cca7dca65e62d840e3d.jpg","prefix":"detect laser ; solid","suffix":"<loc0868><loc0363><loc0985><loc0522> solid"}
+{"image":"ps_ipa_con0_7_partialsoluble_jpg.rf.bbea490ed75dcda4caaad7ff31281a8a.jpg","prefix":"detect laser ; solid","suffix":"<loc0564><loc0373><loc0792><loc0540> laser ; <loc0856><loc0383><loc0984><loc0543> solid"}
+{"image":"ps_heptane_con0_1_insoluble_jpg.rf.d3ddab3378e6edc68eed3d2dba0ed25b.jpg","prefix":"detect laser ; solid","suffix":"<loc0873><loc0360><loc1012><loc0524> solid"}
+{"image":"ps_ipa_con0_1_insoluble_jpg.rf.929c35f7b8cb8ed210add6c60fbb251b.jpg","prefix":"detect laser ; solid","suffix":"<loc0884><loc0359><loc0995><loc0523> solid"}
+{"image":"ps4ss_acetone_con0_7_insoluble_jpg.rf.0f34d399a878438ef0c4ad10d4160f98.jpg","prefix":"detect laser ; solid","suffix":"<loc0829><loc0362><loc0996><loc0522> solid"}
+{"image":"ps4ss_thf_con1_insoluble_jpg.rf.37cd96f989f0024445c8b4a636cc292d.jpg","prefix":"detect laser ; solid","suffix":"<loc0868><loc0351><loc0986><loc0514> solid"}
+{"image":"ps_acetone_con0_5_partialsoluble_jpg.rf.cfd8b4eaf72262396e39334df478fa0b.jpg","prefix":"detect laser ; solid","suffix":"<loc0864><loc0368><loc0993><loc0528> solid ; <loc0575><loc0361><loc0795><loc0526> laser"}
+{"image":"ps_acetone_con0_1_withoutlens_repeat_partialsoluble_jpg.rf.95d8aeed9c22205d5cb5238955b851d8.jpg","prefix":"detect laser ; solid","suffix":"<loc0693><loc0388><loc0836><loc0566> solid ; <loc0435><loc0379><loc0571><loc0563> laser"}
+{"image":"ps4ss_thf_con0_7_insoluble_jpg.rf.7c59992ee479fb633bfd32fcce71b74c.jpg","prefix":"detect laser ; solid","suffix":"<loc0854><loc0360><loc0983><loc0520> solid"}
+{"image":"ps4ss_toluene_con0_5_insoluble_jpg.rf.f940052ec82ebfb83df8af0bf49b2337.jpg","prefix":"detect laser ; solid","suffix":"<loc0873><loc0361><loc0992><loc0524> solid"}
+{"image":"ps_acetone_con0_7_partialsoluble_jpg.rf.187d44d12fdf02cc502708dcd244a0b9.jpg","prefix":"detect laser ; solid","suffix":"<loc0570><loc0359><loc0797><loc0526> laser ; <loc0837><loc0366><loc0994><loc0524> solid"}
+{"image":"ps4ss_heptane_con0_3_insoluble_jpg.rf.41feb9280447a6c950fe30de44c0c606.jpg","prefix":"detect laser ; solid","suffix":"<loc0835><loc0362><loc0976><loc0522> solid"}
+{"image":"ps4ss_water_con0_5_withoutlens_repeat_colloidal_jpg.rf.5caec8b3b485524db8e0843ab2a55a7f.jpg","prefix":"detect laser ; solid","suffix":"<loc0465><loc0390><loc0558><loc0566> laser"}
+{"image":"ps4ss_toluene_con1_insoluble_jpg.rf.a1b9182590f751843463b4c15f163ce3.jpg","prefix":"detect laser ; solid","suffix":"<loc0857><loc0356><loc0996><loc0518> solid"}
+{"image":"ps_acetone_con1_partialsoluble_jpg.rf.b7252421fa12ab01ae78c6007fba3706.jpg","prefix":"detect laser ; solid","suffix":"<loc0871><loc0392><loc1006><loc0552> solid ; <loc0573><loc0374><loc0791><loc0550> laser"}
+{"image":"ps4ss_heptane_con0_5_insoluble_jpg.rf.9ab4266f8e1e8e970407abb6a53c23d3.jpg","prefix":"detect laser ; solid","suffix":"<loc0846><loc0356><loc0974><loc0517> solid"}
+{"image":"pmma_toluene_con0_1_withlens_repeat_colloidal_jpg.rf.f1dcadd2930499c3df1ff963e1fee968.jpg","prefix":"detect laser ; solid","suffix":"<loc0433><loc0346><loc0593><loc0542> laser"}
+{"image":"pmma_ipa_con1_insoluble_jpg.rf.683a6f58e0b3c61faf9250c48413e44e.jpg","prefix":"detect laser ; solid","suffix":"<loc0854><loc0372><loc0992><loc0530> solid"}
+{"image":"pmma_toluene_con0_7_withlens_repeat_colloidal_jpg.rf.57a4ad08cce3489411c1eae922ea8fce.jpg","prefix":"detect laser ; solid","suffix":"<loc0396><loc0370><loc0590><loc0559> laser"}
+{"image":"pva_acetone_con1_withlens_repeat_insoluble_jpg.rf.e4d9be02e7b5152b6dea59de6bd0dc13.jpg","prefix":"detect laser ; solid","suffix":"<loc0707><loc0371><loc0848><loc0550> solid"}
+{"image":"ps_water_con0_3_insoluble_jpg.rf.d5705a555d6ec0474ab68f1ed5862c85.jpg","prefix":"detect laser ; solid","suffix":"<loc0902><loc0363><loc1020><loc0526> solid"}
+{"image":"pmma_water_con0_3_partialsoluble_jpg.rf.f8f54ddac3d6fda4696b58e9fd3a4e98.jpg","prefix":"detect laser ; solid","suffix":"<loc0281><loc0356><loc0494><loc0523> solid ; <loc0575><loc0361><loc0798><loc0524> laser"}
+{"image":"pmma_thf_con0_5_colloidal_jpg.rf.0013022d0caf5fc3b9d9c9a82b53e30d.jpg","prefix":"detect laser ; solid","suffix":"<loc0568><loc0364><loc0787><loc0525> laser"}
+{"image":"pva_dcm_con0_5_insoluble_jpg.rf.8069d35dc3a98f24fa653c2f2f90acf4.jpg","prefix":"detect laser ; solid","suffix":"<loc0587><loc0358><loc0826><loc0517> solid"}
