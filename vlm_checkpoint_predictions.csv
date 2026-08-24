@@ -1,0 +1,382 @@
+checkpoint,image,true_label,predicted_label,predicted_objects,raw_output,correct
+40epoch_10b_224_resplit,acetone_pmma_con5_loop3_colloidal_jpg.rf.8c08190423ef17099d3dcdd0c4dea42d.jpg,colloidal,colloidal,laser,<loc0272><loc0412><loc0490><loc0594> laser,True
+40epoch_10b_224_resplit,ps_toluene_con0_1_colloidal_jpg.rf.86e5f72294a96ada6d4119341910a144.jpg,colloidal,colloidal,laser,<loc0578><loc0351><loc0807><loc0526> laser,True
+40epoch_10b_224_resplit,dcm_pvp_con5_loop5_colloidal_jpg.rf.ad4d55e21cb26989226e1caebfc9ac75.jpg,colloidal,colloidal,laser,<loc0272><loc0418><loc0478><loc0606> laser,True
+40epoch_10b_224_resplit,pmma_dcm_con0_1_colloidal_jpg.rf.ecc27921a040cef4ba66e109365cadd8.jpg,colloidal,partialsoluble,laser;solid,<loc0032><loc0349><loc0146><loc0524> solid ;<loc0596><loc0367><loc0797><loc0532> laser,False
+40epoch_10b_224_resplit,pmma_toluene_con0_7_withlens_repeat_colloidal_jpg.rf.57a4ad08cce3489411c1eae922ea8fce.jpg,colloidal,colloidal,laser,<loc0421><loc0372><loc0595><loc0556> laser,True
+40epoch_10b_224_resplit,ethanol_pvp_con5_loop5_colloidal_jpg.rf.13bf2bf424257f6dfccce354bf1bba0d.jpg,colloidal,colloidal,laser,<loc0268><loc0416><loc0483><loc0604> laser,True
+40epoch_10b_224_resplit,ps_thf_con0_7_colloidal_jpg.rf.66b3db1a2197d42e02fc380386598eda.jpg,colloidal,colloidal,laser,<loc0576><loc0358><loc0795><loc0525> laser,True
+40epoch_10b_224_resplit,methanol_pvp_con5_loop5_colloidal_jpg.rf.1c27fb709bdf10693590ade0c6197b95.jpg,colloidal,colloidal,laser,<loc0268><loc0421><loc0481><loc0610> laser,True
+40epoch_10b_224_resplit,2butanol_pvp_con1_20h_colloidal_jpg.rf.2d1931b485143ebb4195ad361288f1f5.jpg,colloidal,colloidal,laser,<loc0551><loc0320><loc0676><loc0579> laser,True
+40epoch_10b_224_resplit,acetonitrile_pcl_con5_loop2_colloidal_jpg.rf.18a717adc90eac1302e6f67f7c369757.jpg,colloidal,colloidal,laser,<loc0265><loc0416><loc0482><loc0606> laser,True
+40epoch_10b_224_resplit,pdms_toluene_con0_5_withlens_repeat_colloidal_jpg.rf.864e8d02da6c63a404413d1dfb6e3dcb.jpg,colloidal,colloidal,laser,<loc0421><loc0366><loc0588><loc0562> laser,True
+40epoch_10b_224_resplit,1-propanol_pvp_con5_loop6_colloidal_jpg.rf.e16949d754fe29571ed99cb274b2b720.jpg,colloidal,colloidal,laser,<loc0260><loc0408><loc0479><loc0602> laser,True
+40epoch_10b_224_resplit,DMSO_Acetonitrile_pvp_con1_loop1_colloidal_jpg.rf.2d5c99f84679ac6dc48dbd874c7e0eb4.jpg,colloidal,colloidal,laser,<loc0433><loc0422><loc0557><loc0608> laser,True
+40epoch_10b_224_resplit,dmso_acetone_pvp_con10_loop5_colloidal_jpg.rf.12c858b3ad36ce0041f6b8ad28f6e878.jpg,colloidal,colloidal,laser,<loc0265><loc0416><loc0483><loc0610> laser,True
+40epoch_10b_224_resplit,dmso_toluene_pvp_con5_loop6_colloidal_jpg.rf.5e0b6822a383d9ef7d3f019ff4237445.jpg,colloidal,colloidal,laser,<loc0279><loc0420><loc0480><loc0616> laser,True
+40epoch_10b_224_resplit,pcl_acetone_con0_3_withoutlens_repeat_colloidal_jpg.rf.d1558ecea4c51653b41a646147e3c56f.jpg,colloidal,colloidal,laser,<loc0455><loc0386><loc0559><loc0570> laser,True
+40epoch_10b_224_resplit,acetone_pmma_con1_20h_colloidal_jpg.rf.500fd70b84d9b2380e01d60282d61f72.jpg,colloidal,colloidal,laser,<loc0553><loc0346><loc0678><loc0600> laser,True
+40epoch_10b_224_resplit,pmma_etoac_con0_3_withoutlens_repeat_colloidal_jpg.rf.0450d670a9f3b2990826ea4c5c289a62.jpg,colloidal,colloidal,laser,<loc0460><loc0383><loc0560><loc0573> laser,True
+40epoch_10b_224_resplit,ethanol_pvp_con5_loop6_colloidal_jpg.rf.f989328e9d212c693155e06a47e0107d.jpg,colloidal,colloidal,laser,<loc0268><loc0416><loc0482><loc0607> laser,True
+40epoch_10b_224_resplit,peg600_toluene_con0_3_withoutlens_repeat_colloidal_jpg.rf.5d626eaee00fd088dc42eaf3f0bdf502.jpg,colloidal,colloidal,laser,<loc0465><loc0384><loc0548><loc0567> laser,True
+40epoch_10b_224_resplit,DMSO_pvp_con1_loop0_colloidal_jpg.rf.1e2b452869a3c932fe82daf3180a2083.jpg,colloidal,colloidal,laser,<loc0280><loc0418><loc0479><loc0605> laser,True
+40epoch_10b_224_resplit,methylacetate_pmma_con1_20h_colloidal_jpg.rf.5970497ee9ab39898ca9dd2fafd4306f.jpg,colloidal,colloidal,laser,<loc0546><loc0342><loc0676><loc0594> laser,True
+40epoch_10b_224_resplit,Chloroform_pvp_con1_loop1_colloidal_jpg.rf.05d5a0701682c45019f60b08201fad3b.jpg,colloidal,colloidal,laser,<loc0449><loc0416><loc0551><loc0603> laser,True
+40epoch_10b_224_resplit,1-4-dioxane_pcl_con1_colloidal_jpg.rf.87715b42761d416f698170d50430fd7f.jpg,colloidal,colloidal,laser,<loc0531><loc0349><loc0669><loc0594> laser,True
+40epoch_10b_224_resplit,water_pvp_con1_colloidal_jpg.rf.d3401dfd42d9fffe1029224d9acac5bb.jpg,colloidal,colloidal,laser,<loc0553><loc0337><loc0681><loc0600> laser,True
+40epoch_10b_224_resplit,dmso_methanol_pvp_con5_loop6_colloidal_jpg.rf.05d2328f58921e82f6d590e9450a82ae.jpg,colloidal,colloidal,laser,<loc0259><loc0416><loc0483><loc0610> laser,True
+40epoch_10b_224_resplit,peg600_toluene_con0_5_withoutlens_repeat_colloidal_jpg.rf.9be0ec4856e9d04b815193b14a3640b8.jpg,colloidal,partialsoluble,laser;solid,<loc0691><loc0392><loc0844><loc0576> solid ; <loc0455><loc0386><loc0559><loc0568> laser,False
+40epoch_10b_224_resplit,dmso_toluene_acetone_pvp_con5_loop6_colloidal_jpg.rf.33c1672820dc9f90c3fdb782fe2666fd.jpg,colloidal,colloidal,laser,<loc0277><loc0420><loc0482><loc0607> laser,True
+40epoch_10b_224_resplit,dmso_acetonitrile_pcl_con10_loop2_colloidal_jpg.rf.5930a03a30419fa4e7477f445727c109.jpg,colloidal,colloidal,laser,<loc0261><loc0416><loc0482><loc0604> laser,True
+40epoch_10b_224_resplit,dmso_acetone_pvp_con10_loop6_colloidal_jpg.rf.2e9128def8808a1ba600660472cb4da1.jpg,colloidal,colloidal,laser,<loc0266><loc0416><loc0484><loc0604> laser,True
+40epoch_10b_224_resplit,1-propanol_chloroform_pvp_con10_loop6_colloidal_jpg.rf.d192a2561f7b1ca522390fbe3fdba007.jpg,colloidal,colloidal,laser,<loc0266><loc0416><loc0485><loc0610> laser,True
+40epoch_10b_224_resplit,ethylacetate_pcl_con1_20h_lens_colloidal_jpg.rf.b505bd1dddbeee05f218ab5393480e88.jpg,colloidal,partialsoluble,laser;solid,<loc0122><loc0316><loc0268><loc0576> solid ; <loc0490><loc0326><loc0832><loc0581> laser,False
+40epoch_10b_224_resplit,toluene_pcl_con10_loop2_colloidal_jpg.rf.3e05e7d924c1f309c9a837c5e1281472.jpg,colloidal,soluble,,<loc0284>Beleef,False
+40epoch_10b_224_resplit,benzylalcohol_pcl_con1_20h_colloidal_jpg.rf.c3e916ebf009f4c47670bbb2dc1b5def.jpg,colloidal,partialsoluble,laser;solid,<loc0067><loc0311><loc0238><loc0570> solid ; <loc0563><loc0317><loc0686><loc0576> laser,False
+40epoch_10b_224_resplit,DMSO_Acetone_pvp_con1_loop1_colloidal_jpg.rf.c0f581dcdd7f204a1c9a234132d402a9.jpg,colloidal,colloidal,laser,<loc0421><loc0421><loc0551><loc0607> laser,True
+40epoch_10b_224_resplit,DMSO_pvp_con1_loop1_colloidal_jpg.rf.365bc90edc8aa1cfa399387e5db6f473.jpg,colloidal,colloidal,laser,<loc0465><loc0425><loc0548><loc0604> laser,True
+40epoch_10b_224_resplit,ethyleneglycol_pvp_con10_loop5_colloidal_jpg.rf.329de91c9a1b1293430f4b6992b733d4.jpg,colloidal,colloidal,laser,<loc0272><loc0414><loc0481><loc0606> laser,True
+40epoch_10b_224_resplit,acetonitrile_pcl_con10_loop2_colloidal_jpg.rf.177e5ef1b82c435fa78e5a03b020eea7.jpg,colloidal,colloidal,laser,<loc0268><loc0426><loc0482><loc0618> laser,True
+40epoch_10b_224_resplit,benzylalcohol_pvp_con1_colloidal_jpg.rf.c041ed6ad001cac37770121c41705ae2.jpg,colloidal,colloidal,laser,<loc0556><loc0337><loc0676><loc0584> laser,True
+40epoch_10b_224_resplit,pvp_ethanol_con0_7_colloidal_jpg.rf.ca2c39fb33dc5a03cb61a6fa4ce68049.jpg,colloidal,colloidal,laser,<loc0571><loc0358><loc0792><loc0519> laser,True
+40epoch_10b_224_resplit,DCM_pvp_con1_loop1_colloidal_jpg.rf.a09766515b1a4ed196103d9e770a1a62.jpg,colloidal,colloidal,laser,<loc0435><loc0424><loc0548><loc0606> laser,True
+40epoch_10b_224_resplit,chloroform_ps_con5_loop4_colloidal_jpg.rf.89a95c935770e1130da4e77bc82136c7.jpg,colloidal,colloidal,laser,<loc0267><loc0422><loc0482><loc0620> laser,True
+40epoch_10b_224_resplit,1-Propanol_Chloroform_pvp_con1_loop1_colloidal_jpg.rf.310d3f404543d42face162134938cb2b.jpg,colloidal,colloidal,laser,<loc0449><loc0424><loc0551><loc0606> laser,True
+40epoch_10b_224_resplit,dcm_ps_con5_loop4_colloidal_jpg.rf.b8144f326c5ed06354aa1c0a335e3583.jpg,colloidal,colloidal,laser,<loc0294><loc0421><loc0484><loc0608> laser,True
+40epoch_10b_224_resplit,benzylalcohol_pcl_con1_colloidal_jpg.rf.802765c77a95b11889aed5e7e0adaa2e.jpg,colloidal,colloidal,laser,<loc0557><loc0320><loc0676><loc0564> laser,True
+40epoch_10b_224_resplit,1butanol_pvp_con1_20h_lens_colloidal_jpg.rf.7235700454bc2eb1ebf97584095375c3.jpg,colloidal,colloidal,laser,<loc0495><loc0322><loc0821><loc0573> laser,True
+40epoch_10b_224_resplit,ipa_pcl_con1_20h_insoluble_jpg.rf.1370e7e3ce3abd84ca2ce67f1e465b59.jpg,insoluble,insoluble,solid,<loc0856><loc0352><loc1023><loc0600> solid,True
+40epoch_10b_224_resplit,peg10k_ipa_con0_3_insoluble_jpg.rf.4ed4a74ede34a5d8b0d9d2f789d864ff.jpg,insoluble,insoluble,solid,<loc0844><loc0364><loc0989><loc0524> solid,True
+40epoch_10b_224_resplit,Toluene_Heptane_pvp_con1_loop0_insoluble_jpg.rf.95c5c453a2dad4c70ba3d4dd4a0fa23f.jpg,insoluble,insoluble,solid,<loc0684><loc0434><loc0873><loc0605> solid,True
+40epoch_10b_224_resplit,pva_ipa_con1_withoutlens_repeat_insoluble_jpg.rf.c5adac50f555d855cd03572846ab32bc.jpg,insoluble,insoluble,solid,<loc0699><loc0396><loc0840><loc0579> solid,True
+40epoch_10b_224_resplit,pmma_ipa_con0_3_withlens_repeat_insoluble_jpg.rf.6df891ff1052941a7461cef7756e432d.jpg,insoluble,soluble,,<loc0711><loc0355><loc0859>lor,False
+40epoch_10b_224_resplit,pmma_ipa_con0_7_insoluble_jpg.rf.966f981d08aea6a410e9ccf7ad6cfe10.jpg,insoluble,insoluble,solid,<loc0884><loc0368><loc1001><loc0534> solid,True
+40epoch_10b_224_resplit,ethanol_pcl_con1_20h_lens_insoluble_jpg.rf.b6359266a9af1692aa4f4817c83a2c19.jpg,insoluble,insoluble,solid,<loc0856><loc0356><loc1023><loc0604> solid,True
+40epoch_10b_224_resplit,peg10k_etoac_con0_1_insoluble_jpg.rf.b0200309790ce535374b3816a19df8f9.jpg,insoluble,soluble,,,False
+40epoch_10b_224_resplit,pcl_heptane_con0_3_insoluble_jpg.rf.24643288154949686e97d8bf198870f5.jpg,insoluble,insoluble,solid,<loc0878><loc0360><loc1016><loc0529> solid,True
+40epoch_10b_224_resplit,Iso-Propyl_Acetate_pvp_con1_loop0_insoluble_jpg.rf.56d961639980524ca41a482803127975.jpg,insoluble,insoluble,solid,<loc0667><loc0438><loc0868><loc0619> solid,True
+40epoch_10b_224_resplit,pvp_heptane_con0_7_insoluble_jpg.rf.934564377305bf0aa5ead12493e20a53.jpg,insoluble,soluble,,<loc0711>ind,False
+40epoch_10b_224_resplit,heptane_pcl_con10_loop2_insoluble_jpg.rf.795a793b179c46767773424e8d5ec30c.jpg,insoluble,insoluble,solid,<loc0659><loc0424><loc0851><loc0605> solid,True
+40epoch_10b_224_resplit,Heptane_pva_con1_loop1_insoluble_jpg.rf.814be41aa649e1580d7d0a291a7f4f55.jpg,insoluble,insoluble,solid,<loc0691><loc0436><loc0844><loc0605> solid,True
+40epoch_10b_224_resplit,1butanol_ps_con10_loop4_insoluble_jpg.rf.5f85c2adb242542a833f59defcd03628.jpg,insoluble,insoluble,solid,<loc0617><loc0440><loc0846><loc0608> solid,True
+40epoch_10b_224_resplit,dmso_pmma_con5_loop3_insoluble_jpg.rf.e062b62e64f8b634612d5305d920e81b.jpg,insoluble,soluble,,,False
+40epoch_10b_224_resplit,peg10k_toluene_con0_1_insoluble_jpg.rf.89e16031ae5a91a0f51c278b83c69154.jpg,insoluble,insoluble,solid,<loc0869><loc0368><loc1001><loc0528> solid,True
+40epoch_10b_224_resplit,ethyleneglycol_pmma_con10_loop3_insoluble_jpg.rf.c91ea8ffb8a69e5d492bde76f774d6a1.jpg,insoluble,insoluble,solid,<loc0640><loc0433><loc0837><loc0603> solid,True
+40epoch_10b_224_resplit,ps4ss_etoac_con1_insoluble_jpg.rf.c2c1809038df62173ec6ccf462f6d2cf.jpg,insoluble,insoluble,solid,<loc0829><loc0367><loc0994><loc0525> solid,True
+40epoch_10b_224_resplit,ps4ss_ethanol_con0_1_insoluble_jpg.rf.dc9ff71d06e7ff71e2c4063875dce20b.jpg,insoluble,insoluble,solid,<loc0877><loc0362><loc0974><loc0523> solid,True
+40epoch_10b_224_resplit,pcl_ipa_con0_3_insoluble_jpg.rf.f37e55e707b3dd6ef708a8c0a4f6335b.jpg,insoluble,soluble,,,False
+40epoch_10b_224_resplit,ps4ss_dcm_con1_insoluble_jpg.rf.e308345a1907ac32f6cdb69e4bd34f3e.jpg,insoluble,insoluble,solid,<loc0846><loc0364><loc0966><loc0527> solid,True
+40epoch_10b_224_resplit,acetonitrile_ps_con5_loop4_insoluble_jpg.rf.a4303369392a4d282a149dbeee32d783.jpg,insoluble,insoluble,solid,<loc0617><loc0428><loc0866><loc0607> solid,True
+40epoch_10b_224_resplit,pcl_ethanol_con0_7_insoluble_jpg.rf.4d4ae9816e32cae9dc7648a5ddf4f7d2.jpg,insoluble,insoluble,solid,<loc0859><loc0368><loc0987><loc0532> solid,True
+40epoch_10b_224_resplit,pvp_toluene_con0_3_insoluble_jpg.rf.b469a647813af4c1f44c27c78e584b0d.jpg,insoluble,insoluble,solid,<loc0860><loc0362><loc0990><loc0518> solid,True
+40epoch_10b_224_resplit,diethylether_pmma_con1_insoluble_jpg.rf.d77c044a55a5d5091e592eeee146233f.jpg,insoluble,partialsoluble,laser;solid,<loc0265><loc0311><loc0792><loc0552> laser ; <loc0482><loc0313><loc0796><loc0553> solid,False
+40epoch_10b_224_resplit,water_pmma_con1_20h_lens_insoluble_jpg.rf.ab9709057e4b995abb5bbcfa7a0712ca.jpg,insoluble,insoluble,solid,<loc0846><loc0350><loc1023><loc0606> solid,True
+40epoch_10b_224_resplit,butylbenzoate_pvp_con1_20h_insoluble_jpg.rf.9bb670bcde9b4b9fc4d3cd2c5fea687e.jpg,insoluble,insoluble,solid,<loc0834><loc0337><loc1023><loc0586> solid,True
+40epoch_10b_224_resplit,Iso-Propyl_Acetate_pvp_con1_loop1_insoluble_jpg.rf.f2e51820a39e44671578b1b8138a83e8.jpg,insoluble,insoluble,solid,<loc0682><loc0434><loc0849><loc0607> solid,True
+40epoch_10b_224_resplit,peg10k_ipa_con0_5_insoluble_jpg.rf.d1f51c9b30cfebc51011b6bc3ace6bf9.jpg,insoluble,insoluble,solid,<loc0883><loc0360><loc1005><loc0521> solid,True
+40epoch_10b_224_resplit,peg10k_toluene_con0_5_insoluble_jpg.rf.79603dac7963b5888193df7859fb6cc6.jpg,insoluble,insoluble,solid,<loc0869><loc0368><loc1003><loc0528> solid,True
+40epoch_10b_224_resplit,pva_heptane_con0_5_insoluble_jpg.rf.67654d1b2cff56fa61e1f7d6625d920e.jpg,insoluble,insoluble,solid,<loc0834><loc0362><loc0993><loc0522> solid,True
+40epoch_10b_224_resplit,2butanol_pcl_con1_20h_insoluble_jpg.rf.586cf6aeca87180ed7d06c0efb428d9a.jpg,insoluble,insoluble,solid,<loc0836><loc0362><loc1023><loc0603> solid,True
+40epoch_10b_224_resplit,pva_thf_con1_insoluble_jpg.rf.6c931d70cc589badc36b6e9d88a55c73.jpg,insoluble,insoluble,solid,<loc0851><loc0368><loc0997><loc0526> solid,True
+40epoch_10b_224_resplit,ps4ss_acetone_con0_5_insoluble_jpg.rf.d7deddfe4a466eb4d20f4d87a57e69d1.jpg,insoluble,insoluble,solid,<loc0839><loc0364><loc0983><loc0520> solid,True
+40epoch_10b_224_resplit,water_pcl_con1_insoluble_jpg.rf.8c8d75a3515e17a30ad1b4d490cf3820.jpg,insoluble,insoluble,solid,<loc0827><loc0334><loc1023><loc0570> solid,True
+40epoch_10b_224_resplit,heptane_pcl_con1_insoluble_jpg.rf.ebac920c3fb98d09715e71a7507d8d90.jpg,insoluble,insoluble,solid,<loc0827><loc0334><loc1021><loc0563> solid,True
+40epoch_10b_224_resplit,pmma_ipa_con0_5_insoluble_jpg.rf.2e936a634fa5df253830ef055751cfdd.jpg,insoluble,insoluble,solid,<loc0854><loc0382><loc1000><loc0537> solid,True
+40epoch_10b_224_resplit,pva_acetone_con1_withoutlens_repeat_insoluble_jpg.rf.22873043240c44060719f1fd4f6e00e4.jpg,insoluble,partialsoluble,laser;solid,<loc0465><loc0389><loc0557><loc0581> laser ; <loc0684><loc0404><loc0842><loc0585> solid,False
+40epoch_10b_224_resplit,pva_ipa_con0_5_insoluble_jpg.rf.0736f98c2b6e783bd8658095ac520cbd.jpg,insoluble,insoluble,solid,<loc0870><loc0368><loc1002><loc0527> solid,True
+40epoch_10b_224_resplit,2butanol_pmma_con1_insoluble_jpg.rf.d267f2b55d4b69aca467ecf37b998dfa.jpg,insoluble,insoluble,solid,<loc0745><loc0334><loc1003><loc0579> solid,True
+40epoch_10b_224_resplit,1-Butanol_pva_con1_loop1_insoluble_jpg.rf.10c0aba1f4e47b4b27b8047e3d2aac4b.jpg,partialsoluble,insoluble,solid,<loc0726><loc0422><loc0856><loc0604> solid,False
+40epoch_10b_224_resplit,ps_heptane_con0_3_insoluble_jpg.rf.dd2ef99c03c87ae25db19006e30e1d8c.jpg,insoluble,insoluble,solid,<loc0876><loc0368><loc1003><loc0531> solid,True
+40epoch_10b_224_resplit,pva_toluene_con0_1_insoluble_jpg.rf.69dbbce532d177e33b66e04090865467.jpg,insoluble,insoluble,solid,<loc0893><loc0358><loc1012><loc0516> solid,True
+40epoch_10b_224_resplit,heptane_pvp_con1_insoluble_jpg.rf.4a684aac40c7eeb5a932a6ea6a9ffc2b.jpg,insoluble,insoluble,solid,<loc0709><loc0360><loc1001><loc0602> solid,True
+40epoch_10b_224_resplit,pva_ipa_con0_1_insoluble_jpg.rf.296371257ffae8ed7720dbf510953f2d.jpg,insoluble,soluble,,,False
+40epoch_10b_224_resplit,ethyleneglycol_pmma_con5_loop3_insoluble_jpg.rf.b42caadd73a8e83250a11fcf2882e1b3.jpg,insoluble,insoluble,solid,<loc0635><loc0429><loc0871><loc0603> solid,True
+40epoch_10b_224_resplit,ps_heptane_con0_7_insoluble_jpg.rf.9269838b12df55df606a371fc870a6a8.jpg,insoluble,insoluble,solid,<loc0866><loc0358><loc0994><loc0523> solid,True
+40epoch_10b_224_resplit,peg10k_etoac_con0_3_insoluble_jpg.rf.14347e2e829b949ceb3b3bac4ca9584a.jpg,insoluble,insoluble,solid,<loc0844><loc0366><loc1008><loc0527> solid,True
+40epoch_10b_224_resplit,diethylether_pmma_con5_loop3_insoluble_jpg.rf.4a27b8ce871d3695cd8e695aae91884f.jpg,insoluble,insoluble,solid,<loc0664><loc0434><loc0867><loc0608> solid,True
+40epoch_10b_224_resplit,pva_etoac_con1_insoluble_jpg.rf.876f3d2e948b0f307d02878abf408418.jpg,insoluble,insoluble,solid,<loc0876><loc0364><loc0990><loc0521> solid,True
+40epoch_10b_224_resplit,thf_pvp_con1_gellike_partialsoluble_jpg.rf.1a74ac94c31fc8e8d3c082bc6c561ab4.jpg,partialsoluble,partialsoluble,laser;solid,<loc0836><loc0343><loc1003><loc0582> solid ; <loc0531><loc0334><loc0665><loc0576> laser,True
+40epoch_10b_224_resplit,pmma_water_con0_3_partialsoluble_jpg.rf.f8f54ddac3d6fda4696b58e9fd3a4e98.jpg,partialsoluble,partialsoluble,laser;solid,<loc0569><loc0364><loc0793><loc0527> laser ; <loc0273><loc0356><loc0486><loc0522> solid,True
+40epoch_10b_224_resplit,dmso_acetonitrile_ps_con10_loop4_partialsoluble_jpg.rf.7dab2ba11b8523f73294ea6f8c1e7d3c.jpg,partialsoluble,partialsoluble,laser;solid,<loc0601><loc0434><loc0855><loc0601> solid ; <loc0255><loc0417><loc0485><loc0607> laser,True
+40epoch_10b_224_resplit,DMSO_Acetonitrile_pva_con1_loop1_partialsoluble_jpg.rf.062af50eff431e70e4544269880b4b03.jpg,partialsoluble,partialsoluble,laser;solid,<loc0411><loc0421><loc0551><loc0609> laser ; <loc0715><loc0434><loc0855><loc0609> solid,True
+40epoch_10b_224_resplit,DMSO_Toluene_pva_con1_loop0_partialsoluble_jpg.rf.2433ff476b5e5f974bc8c1b6e576773d.jpg,partialsoluble,partialsoluble,laser;solid,<loc0270><loc0416><loc0480><loc0604> laser ; <loc0678><loc0424><loc0856><loc0609> solid,True
+40epoch_10b_224_resplit,acetone_ps_con5_loop4_partialsoluble_jpg.rf.5341bc02f45a8752edf9cedea34d5ed6.jpg,partialsoluble,colloidal,laser,<loc0272><loc0420><loc0480><loc0607> laser,False
+40epoch_10b_224_resplit,DCM_Diethylether_pva_con1_loop0_partialsoluble_jpg.rf.1e8da502415aa63b9f00c588cb0da711.jpg,partialsoluble,partialsoluble,laser;solid,<loc0272><loc0420><loc0487><loc0606> laser ; <loc0667><loc0435><loc0862><loc0611> solid,True
+40epoch_10b_224_resplit,dmso_methanol_pcl_con5_loop2_partialsoluble_jpg.rf.ad07d6915b4a257d849c4ca616daa062.jpg,partialsoluble,partialsoluble,laser;solid,<loc0672><loc0429><loc0870><loc0607> solid ;<loc0328><loc0422><loc0484><loc0601> laser,True
+40epoch_10b_224_resplit,pmma_ethanol_con1_partialsoluble_jpg.rf.12710f4cba9d8f31efda48ef2ee8eb12.jpg,partialsoluble,partialsoluble,laser;solid,<loc0571><loc0361><loc0797><loc0532> laser ; <loc0862><loc0372><loc0998><loc0531> solid,True
+40epoch_10b_224_resplit,pmma_ethanol_con0_7_partialsoluble_jpg.rf.96e7af1d47721ca705272d061a9e6204.jpg,partialsoluble,insoluble,solid,<loc0872><loc0356><loc1019><loc0514> solid,False
+40epoch_10b_224_resplit,1propanol_chloroform_ps_con5_loop4_partialsoluble_jpg.rf.2d043556a86bde9e2e584cfd45255ebf.jpg,partialsoluble,soluble,,<loc0274> circular circular,False
+40epoch_10b_224_resplit,1-4dioxane_pmma_con1_gellike_partialsoluble_jpg.rf.3c86bd55da63cdf05142f4ba89c81cdd.jpg,partialsoluble,partialsoluble,laser;solid,<loc0551><loc0328><loc0677><loc0570> laser ; <loc0820><loc0332><loc0983><loc0570> solid,True
+40epoch_10b_224_resplit,dmso_acetonitrile_ps_con5_loop4_partialsoluble_jpg.rf.e724925f7f5a827bccc0dc365da1c439.jpg,partialsoluble,partialsoluble,laser;solid,<loc0260><loc0413><loc0485><loc0595> laser ; <loc0628><loc0426><loc0861><loc0603> solid,True
+40epoch_10b_224_resplit,benzylalcohol_ps_con5_loop4_partialsoluble_jpg.rf.d4ac0f9770ef4d2a024c9ac316d49696.jpg,partialsoluble,partialsoluble,laser;solid,<loc0273><loc0421><loc0480><loc0614> laser ; <loc0661><loc0434><loc0845><loc0612> solid,True
+40epoch_10b_224_resplit,pvp_thf_con0_7_partialsoluble_jpg.rf.bf14c522a724a2974123e9da18d6500f.jpg,partialsoluble,partialsoluble,laser;solid,<loc0579><loc0365><loc0795><loc0529> laser ; <loc0859><loc0372><loc0998><loc0525> solid,True
+40epoch_10b_224_resplit,DMSO_Acetone_pva_con1_loop0_partialsoluble_jpg.rf.2cb16cd08ffca41a0703ac5b7ae403ec.jpg,partialsoluble,partialsoluble,laser;solid,<loc0667><loc0428><loc0861><loc0606> solid ; <loc0270><loc0416><loc0476><loc0607> laser,True
+40epoch_10b_224_resplit,dmso_acetone_pmma_con10_loop3_partialsoluble_jpg.rf.f4acfe0c765011e5daf28fd3e30c7d82.jpg,partialsoluble,partialsoluble,laser;solid,<loc0667><loc0440><loc0864><loc0610> solid ; <loc0270><loc0420><loc0481><loc0616> laser,True
+40epoch_10b_224_resplit,peg600_ethanol_con0_3_soluble_jpg.rf.07c82d08f05b45204331f6a1d724907c.jpg,soluble,soluble,,,True
+40epoch_10b_224_resplit,peg600_ethanol_con0_7_soluble_jpg.rf.9305131787a16501217ed5e2c8d4be49.jpg,soluble,soluble,,,True
+40epoch_10b_224_resplit,1butanol_20h_lens_soluble_jpg.rf.3b6a86fb4f128e488edf78584da4ac20.jpg,soluble,colloidal,laser,<loc0089><loc0309><loc0191><loc0573> laser,False
+40epoch_10b_224_resplit,pdms_thf_con1_soluble_jpg.rf.c87ca63bb42f20de0c8ee07fc884900a.jpg,soluble,soluble,,,True
+40epoch_10b_224_resplit,pdms_etoac_con1_soluble_jpg.rf.3f3f8a39119dbbeb8163b617da5528f0.jpg,soluble,soluble,,,True
+40epoch_10b_224_resplit,pcl_thf_con0_1_soluble_jpg.rf.4d1490bcd9982f2216e5131b3f91f118.jpg,soluble,soluble,,,True
+40epoch_10b_224_resplit,peg600_dcm_con1_soluble_jpg.rf.41f807113113fae7c30b9a2fec0ffe7a.jpg,soluble,soluble,,,True
+40epoch_10b_224_resplit,benzylalcohol_pvp_con1_20h_lens_soluble_jpg.rf.ea3134f2343e2b2b5d61c18e7a5f40b4.jpg,soluble,colloidal,laser,<loc0508><loc0331><loc0800><loc0589> laser,False
+40epoch_10b_224_resplit,peg600_thf_con1_soluble_jpg.rf.cdb5f18b29187f626cd856f8ec4b5978.jpg,soluble,soluble,,,True
+40epoch_10b_224_resplit,pdms_thf_con0_1_soluble_jpg.rf.35c0ac1abb0b9bfd0498fb174cae1fab.jpg,soluble,soluble,,,True
+40epoch_10b_224_resplit,peg10k_water_con0_3_soluble_jpg.rf.057d697e206e66cf6fc0ba3e320f80b7.jpg,soluble,soluble,,,True
+40epoch_10b_224_resplit,pcl_thf_con0_5_soluble_jpg.rf.3d821dd88cea033331b4ec9a92e6067a.jpg,soluble,soluble,,,True
+40epoch_10b_224_resplit,pvp_ipa_con0_3_soluble_jpg.rf.55f037fea6cc4a768d9f9c50e6b9bb75.jpg,soluble,soluble,,,True
+40epoch_10b_224_resplit,pcl_etoac_con0_3_soluble_jpg.rf.39f884b3838456762065fae1575ad7f2.jpg,soluble,soluble,,,True
+80epoch_3b_224,acetone_pmma_con5_loop3_colloidal_jpg.rf.8c08190423ef17099d3dcdd0c4dea42d.jpg,colloidal,colloidal,laser,<loc0278><loc0415><loc0483><loc0597> laser,True
+80epoch_3b_224,ps_toluene_con0_1_colloidal_jpg.rf.86e5f72294a96ada6d4119341910a144.jpg,colloidal,colloidal,laser,<loc0578><loc0354><loc0792><loc0525> laser,True
+80epoch_3b_224,dcm_pvp_con5_loop5_colloidal_jpg.rf.ad4d55e21cb26989226e1caebfc9ac75.jpg,colloidal,colloidal,laser,<loc0292><loc0418><loc0480><loc0608> laser,True
+80epoch_3b_224,pmma_dcm_con0_1_colloidal_jpg.rf.ecc27921a040cef4ba66e109365cadd8.jpg,colloidal,colloidal,laser,<loc0612><loc0368><loc0798><loc0534> laser,True
+80epoch_3b_224,pmma_toluene_con0_7_withlens_repeat_colloidal_jpg.rf.57a4ad08cce3489411c1eae922ea8fce.jpg,colloidal,colloidal,laser,<loc0421><loc0368><loc0598><loc0562> laser,True
+80epoch_3b_224,ethanol_pvp_con5_loop5_colloidal_jpg.rf.13bf2bf424257f6dfccce354bf1bba0d.jpg,colloidal,colloidal,laser,<loc0269><loc0414><loc0484><loc0604> laser,True
+80epoch_3b_224,ps_thf_con0_7_colloidal_jpg.rf.66b3db1a2197d42e02fc380386598eda.jpg,colloidal,colloidal,laser,<loc0578><loc0355><loc0802><loc0526> laser,True
+80epoch_3b_224,methanol_pvp_con5_loop5_colloidal_jpg.rf.1c27fb709bdf10693590ade0c6197b95.jpg,colloidal,colloidal,laser,<loc0270><loc0419><loc0482><loc0611> laser,True
+80epoch_3b_224,2butanol_pvp_con1_20h_colloidal_jpg.rf.2d1931b485143ebb4195ad361288f1f5.jpg,colloidal,colloidal,laser,<loc0561><loc0321><loc0675><loc0574> laser,True
+80epoch_3b_224,acetonitrile_pcl_con5_loop2_colloidal_jpg.rf.18a717adc90eac1302e6f67f7c369757.jpg,colloidal,colloidal,laser,<loc0271><loc0419><loc0476><loc0604> laser,True
+80epoch_3b_224,pdms_toluene_con0_5_withlens_repeat_colloidal_jpg.rf.864e8d02da6c63a404413d1dfb6e3dcb.jpg,colloidal,colloidal,laser,<loc0384><loc0367><loc0585><loc0562> laser,True
+80epoch_3b_224,1-propanol_pvp_con5_loop6_colloidal_jpg.rf.e16949d754fe29571ed99cb274b2b720.jpg,colloidal,colloidal,laser,<loc0284><loc0416><loc0477><loc0601> laser,True
+80epoch_3b_224,DMSO_Acetonitrile_pvp_con1_loop1_colloidal_jpg.rf.2d5c99f84679ac6dc48dbd874c7e0eb4.jpg,colloidal,colloidal,laser,<loc0423><loc0420><loc0563><loc0605> laser,True
+80epoch_3b_224,dmso_acetone_pvp_con10_loop5_colloidal_jpg.rf.12c858b3ad36ce0041f6b8ad28f6e878.jpg,colloidal,colloidal,laser,<loc0264><loc0417><loc0489><loc0608> laser,True
+80epoch_3b_224,dmso_toluene_pvp_con5_loop6_colloidal_jpg.rf.5e0b6822a383d9ef7d3f019ff4237445.jpg,colloidal,colloidal,laser,<loc0268><loc0420><loc0471><loc0608> laser,True
+80epoch_3b_224,pcl_acetone_con0_3_withoutlens_repeat_colloidal_jpg.rf.d1558ecea4c51653b41a646147e3c56f.jpg,colloidal,colloidal,laser,<loc0467><loc0382><loc0556><loc0570> laser,True
+80epoch_3b_224,acetone_pmma_con1_20h_colloidal_jpg.rf.500fd70b84d9b2380e01d60282d61f72.jpg,colloidal,colloidal,laser,<loc0561><loc0350><loc0675><loc0600> laser,True
+80epoch_3b_224,pmma_etoac_con0_3_withoutlens_repeat_colloidal_jpg.rf.0450d670a9f3b2990826ea4c5c289a62.jpg,colloidal,colloidal,laser,<loc0454><loc0380><loc0561><loc0573> laser,True
+80epoch_3b_224,ethanol_pvp_con5_loop6_colloidal_jpg.rf.f989328e9d212c693155e06a47e0107d.jpg,colloidal,colloidal,laser,<loc0278><loc0414><loc0483><loc0611> laser,True
+80epoch_3b_224,peg600_toluene_con0_3_withoutlens_repeat_colloidal_jpg.rf.5d626eaee00fd088dc42eaf3f0bdf502.jpg,colloidal,colloidal,laser,<loc0468><loc0381><loc0558><loc0570> laser,True
+80epoch_3b_224,DMSO_pvp_con1_loop0_colloidal_jpg.rf.1e2b452869a3c932fe82daf3180a2083.jpg,colloidal,colloidal,laser,<loc0281><loc0420><loc0472><loc0605> laser,True
+80epoch_3b_224,methylacetate_pmma_con1_20h_colloidal_jpg.rf.5970497ee9ab39898ca9dd2fafd4306f.jpg,colloidal,colloidal,laser,<loc0555><loc0345><loc0676><loc0590> laser,True
+80epoch_3b_224,Chloroform_pvp_con1_loop1_colloidal_jpg.rf.05d5a0701682c45019f60b08201fad3b.jpg,colloidal,colloidal,laser,<loc0435><loc0417><loc0548><loc0602> laser,True
+80epoch_3b_224,1-4-dioxane_pcl_con1_colloidal_jpg.rf.87715b42761d416f698170d50430fd7f.jpg,colloidal,colloidal,laser,<loc0512><loc0346><loc0670><loc0589> laser,True
+80epoch_3b_224,water_pvp_con1_colloidal_jpg.rf.d3401dfd42d9fffe1029224d9acac5bb.jpg,colloidal,colloidal,laser,<loc0553><loc0345><loc0681><loc0595> laser,True
+80epoch_3b_224,dmso_methanol_pvp_con5_loop6_colloidal_jpg.rf.05d2328f58921e82f6d590e9450a82ae.jpg,colloidal,colloidal,laser,<loc0260><loc0418><loc0484><loc0610> laser,True
+80epoch_3b_224,peg600_toluene_con0_5_withoutlens_repeat_colloidal_jpg.rf.9be0ec4856e9d04b815193b14a3640b8.jpg,colloidal,colloidal,laser,<loc0462><loc0384><loc0558><loc0571> laser,True
+80epoch_3b_224,dmso_toluene_acetone_pvp_con5_loop6_colloidal_jpg.rf.33c1672820dc9f90c3fdb782fe2666fd.jpg,colloidal,colloidal,laser,<loc0270><loc0420><loc0485><loc0610> laser,True
+80epoch_3b_224,dmso_acetonitrile_pcl_con10_loop2_colloidal_jpg.rf.5930a03a30419fa4e7477f445727c109.jpg,colloidal,colloidal,laser,<loc0273><loc0416><loc0480><loc0602> laser,True
+80epoch_3b_224,dmso_acetone_pvp_con10_loop6_colloidal_jpg.rf.2e9128def8808a1ba600660472cb4da1.jpg,colloidal,colloidal,laser,<loc0260><loc0414><loc0484><loc0605> laser,True
+80epoch_3b_224,1-propanol_chloroform_pvp_con10_loop6_colloidal_jpg.rf.d192a2561f7b1ca522390fbe3fdba007.jpg,colloidal,colloidal,laser,<loc0263><loc0423><loc0481><loc0615> laser,True
+80epoch_3b_224,ethylacetate_pcl_con1_20h_lens_colloidal_jpg.rf.b505bd1dddbeee05f218ab5393480e88.jpg,colloidal,colloidal,laser,<loc0498><loc0322><loc0812><loc0585> laser,True
+80epoch_3b_224,toluene_pcl_con10_loop2_colloidal_jpg.rf.3e05e7d924c1f309c9a837c5e1281472.jpg,colloidal,colloidal,laser,<loc0284><loc0417><loc0480><loc0602> laser,True
+80epoch_3b_224,benzylalcohol_pcl_con1_20h_colloidal_jpg.rf.c3e916ebf009f4c47670bbb2dc1b5def.jpg,colloidal,colloidal,laser,<loc0557><loc0322><loc0685><loc0569> laser,True
+80epoch_3b_224,DMSO_Acetone_pvp_con1_loop1_colloidal_jpg.rf.c0f581dcdd7f204a1c9a234132d402a9.jpg,colloidal,colloidal,laser,<loc0419><loc0425><loc0553><loc0606> laser,True
+80epoch_3b_224,DMSO_pvp_con1_loop1_colloidal_jpg.rf.365bc90edc8aa1cfa399387e5db6f473.jpg,colloidal,colloidal,laser,<loc0430><loc0422><loc0551><loc0606> laser,True
+80epoch_3b_224,ethyleneglycol_pvp_con10_loop5_colloidal_jpg.rf.329de91c9a1b1293430f4b6992b733d4.jpg,colloidal,colloidal,laser,<loc0270><loc0422><loc0485><loc0608> laser,True
+80epoch_3b_224,acetonitrile_pcl_con10_loop2_colloidal_jpg.rf.177e5ef1b82c435fa78e5a03b020eea7.jpg,colloidal,colloidal,laser,<loc0254><loc0426><loc0476><loc0618> laser,True
+80epoch_3b_224,benzylalcohol_pvp_con1_colloidal_jpg.rf.c041ed6ad001cac37770121c41705ae2.jpg,colloidal,colloidal,laser,<loc0538><loc0342><loc0673><loc0583> laser,True
+80epoch_3b_224,pvp_ethanol_con0_7_colloidal_jpg.rf.ca2c39fb33dc5a03cb61a6fa4ce68049.jpg,colloidal,colloidal,laser,<loc0581><loc0355><loc0793><loc0525> laser,True
+80epoch_3b_224,DCM_pvp_con1_loop1_colloidal_jpg.rf.a09766515b1a4ed196103d9e770a1a62.jpg,colloidal,colloidal,laser,<loc0428><loc0424><loc0549><loc0607> laser,True
+80epoch_3b_224,chloroform_ps_con5_loop4_colloidal_jpg.rf.89a95c935770e1130da4e77bc82136c7.jpg,colloidal,colloidal,laser,<loc0268><loc0425><loc0485><loc0619> laser,True
+80epoch_3b_224,1-Propanol_Chloroform_pvp_con1_loop1_colloidal_jpg.rf.310d3f404543d42face162134938cb2b.jpg,colloidal,colloidal,laser,<loc0457><loc0422><loc0548><loc0606> laser,True
+80epoch_3b_224,dcm_ps_con5_loop4_colloidal_jpg.rf.b8144f326c5ed06354aa1c0a335e3583.jpg,colloidal,colloidal,laser,<loc0292><loc0417><loc0487><loc0609> laser,True
+80epoch_3b_224,benzylalcohol_pcl_con1_colloidal_jpg.rf.802765c77a95b11889aed5e7e0adaa2e.jpg,colloidal,colloidal,laser,<loc0556><loc0326><loc0663><loc0562> laser,True
+80epoch_3b_224,1butanol_pvp_con1_20h_lens_colloidal_jpg.rf.7235700454bc2eb1ebf97584095375c3.jpg,colloidal,colloidal,laser,<loc0507><loc0319><loc0809><loc0576> laser,True
+80epoch_3b_224,ipa_pcl_con1_20h_insoluble_jpg.rf.1370e7e3ce3abd84ca2ce67f1e465b59.jpg,insoluble,insoluble,solid,<loc0839><loc0348><loc1023><loc0606> solid,True
+80epoch_3b_224,peg10k_ipa_con0_3_insoluble_jpg.rf.4ed4a74ede34a5d8b0d9d2f789d864ff.jpg,insoluble,insoluble,solid,<loc0839><loc0367><loc0986><loc0523> solid,True
+80epoch_3b_224,Toluene_Heptane_pvp_con1_loop0_insoluble_jpg.rf.95c5c453a2dad4c70ba3d4dd4a0fa23f.jpg,insoluble,insoluble,solid,<loc0723><loc0432><loc0873><loc0609> solid,True
+80epoch_3b_224,pva_ipa_con1_withoutlens_repeat_insoluble_jpg.rf.c5adac50f555d855cd03572846ab32bc.jpg,insoluble,partialsoluble,laser;solid,<loc0699><loc0394><loc0840><loc0572> solid ; <loc0411><loc0380><loc0597><loc0574> laser,False
+80epoch_3b_224,pmma_ipa_con0_3_withlens_repeat_insoluble_jpg.rf.6df891ff1052941a7461cef7756e432d.jpg,insoluble,insoluble,solid,<loc0699><loc0352><loc0853><loc0532> solid,True
+80epoch_3b_224,pmma_ipa_con0_7_insoluble_jpg.rf.966f981d08aea6a410e9ccf7ad6cfe10.jpg,insoluble,insoluble,solid,<loc0870><loc0366><loc1009><loc0532> solid,True
+80epoch_3b_224,ethanol_pcl_con1_20h_lens_insoluble_jpg.rf.b6359266a9af1692aa4f4817c83a2c19.jpg,insoluble,insoluble,solid,<loc0834><loc0353><loc1023><loc0608> solid,True
+80epoch_3b_224,peg10k_etoac_con0_1_insoluble_jpg.rf.b0200309790ce535374b3816a19df8f9.jpg,insoluble,insoluble,solid,<loc0896><loc0368><loc1012><loc0528> solid,True
+80epoch_3b_224,pcl_heptane_con0_3_insoluble_jpg.rf.24643288154949686e97d8bf198870f5.jpg,insoluble,insoluble,solid,<loc0878><loc0364><loc1010><loc0527> solid,True
+80epoch_3b_224,Iso-Propyl_Acetate_pvp_con1_loop0_insoluble_jpg.rf.56d961639980524ca41a482803127975.jpg,insoluble,insoluble,solid,<loc0699><loc0432><loc0847><loc0610> solid,True
+80epoch_3b_224,pvp_heptane_con0_7_insoluble_jpg.rf.934564377305bf0aa5ead12493e20a53.jpg,insoluble,insoluble,solid,<loc0884><loc0372><loc0999><loc0528> solid,True
+80epoch_3b_224,heptane_pcl_con10_loop2_insoluble_jpg.rf.795a793b179c46767773424e8d5ec30c.jpg,insoluble,insoluble,solid,<loc0659><loc0425><loc0856><loc0602> solid,True
+80epoch_3b_224,Heptane_pva_con1_loop1_insoluble_jpg.rf.814be41aa649e1580d7d0a291a7f4f55.jpg,insoluble,insoluble,solid,<loc0706><loc0431><loc0846><loc0611> solid,True
+80epoch_3b_224,1butanol_ps_con10_loop4_insoluble_jpg.rf.5f85c2adb242542a833f59defcd03628.jpg,insoluble,insoluble,solid,<loc0605><loc0435><loc0856><loc0612> solid,True
+80epoch_3b_224,dmso_pmma_con5_loop3_insoluble_jpg.rf.e062b62e64f8b634612d5305d920e81b.jpg,insoluble,insoluble,solid,<loc0672><loc0421><loc0866><loc0598> solid,True
+80epoch_3b_224,peg10k_toluene_con0_1_insoluble_jpg.rf.89e16031ae5a91a0f51c278b83c69154.jpg,insoluble,insoluble,solid,<loc0882><loc0375><loc1000><loc0530> solid,True
+80epoch_3b_224,ethyleneglycol_pmma_con10_loop3_insoluble_jpg.rf.c91ea8ffb8a69e5d492bde76f774d6a1.jpg,insoluble,insoluble,solid,<loc0654><loc0428><loc0853><loc0604> solid,True
+80epoch_3b_224,ps4ss_etoac_con1_insoluble_jpg.rf.c2c1809038df62173ec6ccf462f6d2cf.jpg,insoluble,insoluble,solid,<loc0834><loc0365><loc1000><loc0523> solid,True
+80epoch_3b_224,ps4ss_ethanol_con0_1_insoluble_jpg.rf.dc9ff71d06e7ff71e2c4063875dce20b.jpg,insoluble,insoluble,solid,<loc0877><loc0364><loc0972><loc0520> solid,True
+80epoch_3b_224,pcl_ipa_con0_3_insoluble_jpg.rf.f37e55e707b3dd6ef708a8c0a4f6335b.jpg,insoluble,insoluble,solid,<loc0882><loc0366><loc1014><loc0530> solid,True
+80epoch_3b_224,ps4ss_dcm_con1_insoluble_jpg.rf.e308345a1907ac32f6cdb69e4bd34f3e.jpg,insoluble,insoluble,solid,<loc0834><loc0365><loc0964><loc0527> solid,True
+80epoch_3b_224,acetonitrile_ps_con5_loop4_insoluble_jpg.rf.a4303369392a4d282a149dbeee32d783.jpg,insoluble,insoluble,solid,<loc0597><loc0423><loc0867><loc0608> solid,True
+80epoch_3b_224,pcl_ethanol_con0_7_insoluble_jpg.rf.4d4ae9816e32cae9dc7648a5ddf4f7d2.jpg,insoluble,insoluble,solid,<loc0844><loc0369><loc0989><loc0532> solid,True
+80epoch_3b_224,pvp_toluene_con0_3_insoluble_jpg.rf.b469a647813af4c1f44c27c78e584b0d.jpg,insoluble,partialsoluble,laser;solid,<loc0362><loc0346><loc0479><loc0518> laser ; <loc0881><loc0362><loc0994><loc0518> solid,False
+80epoch_3b_224,diethylether_pmma_con1_insoluble_jpg.rf.d77c044a55a5d5091e592eeee146233f.jpg,insoluble,insoluble,solid,<loc0780><loc0321><loc1011><loc0548> solid,True
+80epoch_3b_224,water_pmma_con1_20h_lens_insoluble_jpg.rf.ab9709057e4b995abb5bbcfa7a0712ca.jpg,insoluble,insoluble,solid,<loc0822><loc0350><loc1023>缓冲 solid,True
+80epoch_3b_224,butylbenzoate_pvp_con1_20h_insoluble_jpg.rf.9bb670bcde9b4b9fc4d3cd2c5fea687e.jpg,insoluble,insoluble,solid,<loc0514><loc0328><loc1023><loc0585> solid,True
+80epoch_3b_224,Iso-Propyl_Acetate_pvp_con1_loop1_insoluble_jpg.rf.f2e51820a39e44671578b1b8138a83e8.jpg,insoluble,insoluble,solid,<loc0662><loc0438><loc0845><loc0608> solid,True
+80epoch_3b_224,peg10k_ipa_con0_5_insoluble_jpg.rf.d1f51c9b30cfebc51011b6bc3ace6bf9.jpg,insoluble,insoluble,solid,<loc0875><loc0360><loc1004><loc0523> solid,True
+80epoch_3b_224,peg10k_toluene_con0_5_insoluble_jpg.rf.79603dac7963b5888193df7859fb6cc6.jpg,insoluble,insoluble,solid,<loc0875><loc0370><loc0999><loc0529> solid,True
+80epoch_3b_224,pva_heptane_con0_5_insoluble_jpg.rf.67654d1b2cff56fa61e1f7d6625d920e.jpg,insoluble,insoluble,solid,<loc0878><loc0364><loc0990>R solid,True
+80epoch_3b_224,2butanol_pcl_con1_20h_insoluble_jpg.rf.586cf6aeca87180ed7d06c0efb428d9a.jpg,insoluble,insoluble,solid,<loc0834><loc0361><loc1023><loc0606> solid,True
+80epoch_3b_224,pva_thf_con1_insoluble_jpg.rf.6c931d70cc589badc36b6e9d88a55c73.jpg,insoluble,insoluble,solid,<loc0834><loc0368><loc0989><loc0522> solid,True
+80epoch_3b_224,ps4ss_acetone_con0_5_insoluble_jpg.rf.d7deddfe4a466eb4d20f4d87a57e69d1.jpg,insoluble,insoluble,solid,<loc0834><loc0365><loc0982><loc0519> solid,True
+80epoch_3b_224,water_pcl_con1_insoluble_jpg.rf.8c8d75a3515e17a30ad1b4d490cf3820.jpg,insoluble,insoluble,solid,<loc0834><loc0331><loc1023><loc0567> solid,True
+80epoch_3b_224,heptane_pcl_con1_insoluble_jpg.rf.ebac920c3fb98d09715e71a7507d8d90.jpg,insoluble,insoluble,solid,<loc0819><loc0325><loc1023><loc0567> solid,True
+80epoch_3b_224,pmma_ipa_con0_5_insoluble_jpg.rf.2e936a634fa5df253830ef055751cfdd.jpg,insoluble,insoluble,solid,<loc0867><loc0376><loc1004><loc0540> solid,True
+80epoch_3b_224,pva_acetone_con1_withoutlens_repeat_insoluble_jpg.rf.22873043240c44060719f1fd4f6e00e4.jpg,insoluble,insoluble,solid,<loc0678><loc0404><loc0842><loc0585> solid,True
+80epoch_3b_224,pva_ipa_con0_5_insoluble_jpg.rf.0736f98c2b6e783bd8658095ac520cbd.jpg,insoluble,insoluble,solid,<loc0870><loc0364><loc1004><loc0533> solid,True
+80epoch_3b_224,2butanol_pmma_con1_insoluble_jpg.rf.d267f2b55d4b69aca467ecf37b998dfa.jpg,insoluble,insoluble,solid,<loc0702><loc0346><loc0992><loc0570> solid,True
+80epoch_3b_224,1-Butanol_pva_con1_loop1_insoluble_jpg.rf.10c0aba1f4e47b4b27b8047e3d2aac4b.jpg,partialsoluble,partialsoluble,laser;solid,<loc0417><loc0414><loc0552><loc0603> laser ; <loc0729><loc0422><loc0851><loc0600> solid,True
+80epoch_3b_224,ps_heptane_con0_3_insoluble_jpg.rf.dd2ef99c03c87ae25db19006e30e1d8c.jpg,insoluble,insoluble,solid,<loc0888><loc0368><loc1002><loc0528> solid,True
+80epoch_3b_224,pva_toluene_con0_1_insoluble_jpg.rf.69dbbce532d177e33b66e04090865467.jpg,insoluble,insoluble,solid,<loc0881><loc0356><loc1009><loc0516> solid,True
+80epoch_3b_224,heptane_pvp_con1_insoluble_jpg.rf.4a684aac40c7eeb5a932a6ea6a9ffc2b.jpg,insoluble,insoluble,solid,<loc0801><loc0369><loc1001><loc0603> solid,True
+80epoch_3b_224,pva_ipa_con0_1_insoluble_jpg.rf.296371257ffae8ed7720dbf510953f2d.jpg,insoluble,insoluble,solid,<loc0867><loc0344><loc1001><loc0527> solid,True
+80epoch_3b_224,ethyleneglycol_pmma_con5_loop3_insoluble_jpg.rf.b42caadd73a8e83250a11fcf2882e1b3.jpg,insoluble,insoluble,solid,<loc0673><loc0431><loc0859><loc0611> solid,True
+80epoch_3b_224,ps_heptane_con0_7_insoluble_jpg.rf.9269838b12df55df606a371fc870a6a8.jpg,insoluble,insoluble,solid,<loc0868><loc0365><loc0999><loc0517> solid,True
+80epoch_3b_224,peg10k_etoac_con0_3_insoluble_jpg.rf.14347e2e829b949ceb3b3bac4ca9584a.jpg,insoluble,insoluble,solid,<loc0868><loc0365><loc0999><loc0526> solid,True
+80epoch_3b_224,diethylether_pmma_con5_loop3_insoluble_jpg.rf.4a27b8ce871d3695cd8e695aae91884f.jpg,insoluble,insoluble,solid,<loc0679><loc0432><loc0861><loc0608> solid,True
+80epoch_3b_224,pva_etoac_con1_insoluble_jpg.rf.876f3d2e948b0f307d02878abf408418.jpg,insoluble,insoluble,solid,<loc0848><loc0365><loc0990><loc0527> solid,True
+80epoch_3b_224,thf_pvp_con1_gellike_partialsoluble_jpg.rf.1a74ac94c31fc8e8d3c082bc6c561ab4.jpg,partialsoluble,partialsoluble,laser;solid,<loc0556><loc0344><loc0676><loc0576> laser ; <loc0834><loc0348><loc1009><loc0576> solid,True
+80epoch_3b_224,pmma_water_con0_3_partialsoluble_jpg.rf.f8f54ddac3d6fda4696b58e9fd3a4e98.jpg,partialsoluble,insoluble,solid,<loc0280><loc0354><loc0482><loc0515> solid,False
+80epoch_3b_224,dmso_acetonitrile_ps_con10_loop4_partialsoluble_jpg.rf.7dab2ba11b8523f73294ea6f8c1e7d3c.jpg,partialsoluble,partialsoluble,laser;solid,<loc0246><loc0417><loc0484><loc0605> laser ; <loc0618><loc0427><loc0860><loc0606> solid,True
+80epoch_3b_224,DMSO_Acetonitrile_pva_con1_loop1_partialsoluble_jpg.rf.062af50eff431e70e4544269880b4b03.jpg,partialsoluble,partialsoluble,laser;solid,<loc0428><loc0426><loc0553><loc0607> laser ; <loc0708><loc0435><loc0853><loc0607> solid,True
+80epoch_3b_224,DMSO_Toluene_pva_con1_loop0_partialsoluble_jpg.rf.2433ff476b5e5f974bc8c1b6e576773d.jpg,partialsoluble,partialsoluble,laser;solid,<loc0261><loc0417><loc0483><loc0606> laser ; <loc0672><loc0428><loc0849><loc0604> solid,True
+80epoch_3b_224,acetone_ps_con5_loop4_partialsoluble_jpg.rf.5341bc02f45a8752edf9cedea34d5ed6.jpg,partialsoluble,partialsoluble,laser;solid,<loc0700><loc0434><loc0864><loc0607> solid ; <loc0270><loc0420><loc0477><loc0607> laser,True
+80epoch_3b_224,DCM_Diethylether_pva_con1_loop0_partialsoluble_jpg.rf.1e8da502415aa63b9f00c588cb0da711.jpg,partialsoluble,partialsoluble,laser;solid,<loc0674><loc0432><loc0853><loc0609> solid ; <loc0288><loc0419><loc0479><loc0609> laser,True
+80epoch_3b_224,dmso_methanol_pcl_con5_loop2_partialsoluble_jpg.rf.ad07d6915b4a257d849c4ca616daa062.jpg,partialsoluble,partialsoluble,laser;solid,<loc0270><loc0417><loc0482><loc0603> laser ; <loc0667><loc0430><loc0862><loc0606> solid,True
+80epoch_3b_224,pmma_ethanol_con1_partialsoluble_jpg.rf.12710f4cba9d8f31efda48ef2ee8eb12.jpg,partialsoluble,partialsoluble,laser;solid,<loc0576><loc0363><loc0803><loc0534> laser ; <loc0867><loc0371><loc1001><loc0534> solid,True
+80epoch_3b_224,pmma_ethanol_con0_7_partialsoluble_jpg.rf.96e7af1d47721ca705272d061a9e6204.jpg,partialsoluble,partialsoluble,laser;solid,<loc0884><loc0358><loc1015><loc0515> solid ; <loc0580><loc0356><loc0793><loc0518> laser,True
+80epoch_3b_224,1propanol_chloroform_ps_con5_loop4_partialsoluble_jpg.rf.2d043556a86bde9e2e584cfd45255ebf.jpg,partialsoluble,partialsoluble,laser;solid,<loc0664><loc0448><loc0871><loc0630> solid ; <loc0268><loc0428><loc0484><loc0622> laser,True
+80epoch_3b_224,1-4dioxane_pmma_con1_gellike_partialsoluble_jpg.rf.3c86bd55da63cdf05142f4ba89c81cdd.jpg,partialsoluble,partialsoluble,laser;solid,<loc0556><loc0326><loc0677><loc0566> laser ; <loc0825><loc0331><loc0992><loc0568> solid,True
+80epoch_3b_224,dmso_acetonitrile_ps_con5_loop4_partialsoluble_jpg.rf.e724925f7f5a827bccc0dc365da1c439.jpg,partialsoluble,partialsoluble,laser;solid,<loc0265><loc0416><loc0485><loc0600> laser ; <loc0622><loc0426><loc0865><loc0599> solid,True
+80epoch_3b_224,benzylalcohol_ps_con5_loop4_partialsoluble_jpg.rf.d4ac0f9770ef4d2a024c9ac316d49696.jpg,partialsoluble,partialsoluble,laser;solid,<loc0661><loc0439><loc0857><loc0615> solid ; <loc0273><loc0420><loc0477><loc0613> laser,True
+80epoch_3b_224,pvp_thf_con0_7_partialsoluble_jpg.rf.bf14c522a724a2974123e9da18d6500f.jpg,partialsoluble,colloidal,laser,<loc0578><loc0367><loc0800><loc0532> laser,False
+80epoch_3b_224,DMSO_Acetone_pva_con1_loop0_partialsoluble_jpg.rf.2cb16cd08ffca41a0703ac5b7ae403ec.jpg,partialsoluble,partialsoluble,laser;solid,<loc0263><loc0416><loc0487><loc0610> laser ; <loc0671><loc0432><loc0859><loc0609> solid,True
+80epoch_3b_224,dmso_acetone_pmma_con10_loop3_partialsoluble_jpg.rf.f4acfe0c765011e5daf28fd3e30c7d82.jpg,partialsoluble,partialsoluble,laser;solid,<loc0265><loc0420><loc0490><loc0608> laser ; <loc0647><loc0435><loc0862><loc0611> solid,True
+80epoch_3b_224,peg600_ethanol_con0_3_soluble_jpg.rf.07c82d08f05b45204331f6a1d724907c.jpg,soluble,soluble,,,True
+80epoch_3b_224,peg600_ethanol_con0_7_soluble_jpg.rf.9305131787a16501217ed5e2c8d4be49.jpg,soluble,soluble,,,True
+80epoch_3b_224,1butanol_20h_lens_soluble_jpg.rf.3b6a86fb4f128e488edf78584da4ac20.jpg,soluble,soluble,,,True
+80epoch_3b_224,pdms_thf_con1_soluble_jpg.rf.c87ca63bb42f20de0c8ee07fc884900a.jpg,soluble,soluble,,,True
+80epoch_3b_224,pdms_etoac_con1_soluble_jpg.rf.3f3f8a39119dbbeb8163b617da5528f0.jpg,soluble,soluble,,,True
+80epoch_3b_224,pcl_thf_con0_1_soluble_jpg.rf.4d1490bcd9982f2216e5131b3f91f118.jpg,soluble,soluble,,,True
+80epoch_3b_224,peg600_dcm_con1_soluble_jpg.rf.41f807113113fae7c30b9a2fec0ffe7a.jpg,soluble,soluble,,,True
+80epoch_3b_224,benzylalcohol_pvp_con1_20h_lens_soluble_jpg.rf.ea3134f2343e2b2b5d61c18e7a5f40b4.jpg,soluble,soluble,,,True
+80epoch_3b_224,peg600_thf_con1_soluble_jpg.rf.cdb5f18b29187f626cd856f8ec4b5978.jpg,soluble,soluble,,,True
+80epoch_3b_224,pdms_thf_con0_1_soluble_jpg.rf.35c0ac1abb0b9bfd0498fb174cae1fab.jpg,soluble,soluble,,,True
+80epoch_3b_224,peg10k_water_con0_3_soluble_jpg.rf.057d697e206e66cf6fc0ba3e320f80b7.jpg,soluble,soluble,,,True
+80epoch_3b_224,pcl_thf_con0_5_soluble_jpg.rf.3d821dd88cea033331b4ec9a92e6067a.jpg,soluble,soluble,,,True
+80epoch_3b_224,pvp_ipa_con0_3_soluble_jpg.rf.55f037fea6cc4a768d9f9c50e6b9bb75.jpg,soluble,soluble,,,True
+80epoch_3b_224,pcl_etoac_con0_3_soluble_jpg.rf.39f884b3838456762065fae1575ad7f2.jpg,soluble,soluble,,,True
+80epoch_3b_448_resplit,acetone_pmma_con5_loop3_colloidal_jpg.rf.8c08190423ef17099d3dcdd0c4dea42d.jpg,colloidal,colloidal,laser,<loc0275><loc0416><loc0476><loc0594> laser,True
+80epoch_3b_448_resplit,ps_toluene_con0_1_colloidal_jpg.rf.86e5f72294a96ada6d4119341910a144.jpg,colloidal,colloidal,laser,<loc0588><loc0356><loc0800><loc0520> laser,True
+80epoch_3b_448_resplit,dcm_pvp_con5_loop5_colloidal_jpg.rf.ad4d55e21cb26989226e1caebfc9ac75.jpg,colloidal,colloidal,laser,<loc0265><loc0418><loc0487><loc0606> laser,True
+80epoch_3b_448_resplit,pmma_dcm_con0_1_colloidal_jpg.rf.ecc27921a040cef4ba66e109365cadd8.jpg,colloidal,colloidal,laser,<loc0598><loc0367><loc0797><loc0532> laser,True
+80epoch_3b_448_resplit,pmma_toluene_con0_7_withlens_repeat_colloidal_jpg.rf.57a4ad08cce3489411c1eae922ea8fce.jpg,colloidal,colloidal,laser,<loc0393><loc0366><loc0597><loc0557> laser,True
+80epoch_3b_448_resplit,ethanol_pvp_con5_loop5_colloidal_jpg.rf.13bf2bf424257f6dfccce354bf1bba0d.jpg,colloidal,colloidal,laser,<loc0273><loc0413><loc0482><loc0607> laser,True
+80epoch_3b_448_resplit,ps_thf_con0_7_colloidal_jpg.rf.66b3db1a2197d42e02fc380386598eda.jpg,colloidal,colloidal,laser,<loc0575><loc0358><loc0797><loc0524> laser,True
+80epoch_3b_448_resplit,methanol_pvp_con5_loop5_colloidal_jpg.rf.1c27fb709bdf10693590ade0c6197b95.jpg,colloidal,colloidal,laser,<loc0273><loc0417><loc0474><loc0612> laser,True
+80epoch_3b_448_resplit,2butanol_pvp_con1_20h_colloidal_jpg.rf.2d1931b485143ebb4195ad361288f1f5.jpg,colloidal,colloidal,laser,<loc0553><loc0320><loc0676><loc0576> laser,True
+80epoch_3b_448_resplit,acetonitrile_pcl_con5_loop2_colloidal_jpg.rf.18a717adc90eac1302e6f67f7c369757.jpg,colloidal,colloidal,laser,<loc0258><loc0416><loc0482><loc0606> laser,True
+80epoch_3b_448_resplit,pdms_toluene_con0_5_withlens_repeat_colloidal_jpg.rf.864e8d02da6c63a404413d1dfb6e3dcb.jpg,colloidal,colloidal,laser,<loc0393><loc0368><loc0593><loc0565> laser,True
+80epoch_3b_448_resplit,1-propanol_pvp_con5_loop6_colloidal_jpg.rf.e16949d754fe29571ed99cb274b2b720.jpg,colloidal,colloidal,laser,<loc0273><loc0414><loc0478><loc0601> laser,True
+80epoch_3b_448_resplit,DMSO_Acetonitrile_pvp_con1_loop1_colloidal_jpg.rf.2d5c99f84679ac6dc48dbd874c7e0eb4.jpg,colloidal,colloidal,laser,<loc0421><loc0423><loc0553><loc0608> laser,True
+80epoch_3b_448_resplit,dmso_acetone_pvp_con10_loop5_colloidal_jpg.rf.12c858b3ad36ce0041f6b8ad28f6e878.jpg,colloidal,colloidal,laser,<loc0265><loc0414><loc0480><loc0608> laser,True
+80epoch_3b_448_resplit,dmso_toluene_pvp_con5_loop6_colloidal_jpg.rf.5e0b6822a383d9ef7d3f019ff4237445.jpg,colloidal,colloidal,laser,<loc0265><loc0416><loc0479><loc0616> laser,True
+80epoch_3b_448_resplit,pcl_acetone_con0_3_withoutlens_repeat_colloidal_jpg.rf.d1558ecea4c51653b41a646147e3c56f.jpg,colloidal,colloidal,laser,<loc0460><loc0383><loc0553><loc0568> laser,True
+80epoch_3b_448_resplit,acetone_pmma_con1_20h_colloidal_jpg.rf.500fd70b84d9b2380e01d60282d61f72.jpg,colloidal,soluble,,<loc0553><loc0352>TabStop,False
+80epoch_3b_448_resplit,pmma_etoac_con0_3_withoutlens_repeat_colloidal_jpg.rf.0450d670a9f3b2990826ea4c5c289a62.jpg,colloidal,colloidal,laser,<loc0460><loc0383><loc0560><loc0568> laser,True
+80epoch_3b_448_resplit,ethanol_pvp_con5_loop6_colloidal_jpg.rf.f989328e9d212c693155e06a47e0107d.jpg,colloidal,partialsoluble,laser;solid,<loc0531><loc0426><loc0836><loc0608> solid ; <loc0271><loc0418><loc0482><loc0604> laser,False
+80epoch_3b_448_resplit,peg600_toluene_con0_3_withoutlens_repeat_colloidal_jpg.rf.5d626eaee00fd088dc42eaf3f0bdf502.jpg,colloidal,colloidal,laser,<loc0465><loc0380><loc0546><loc0564> laser,True
+80epoch_3b_448_resplit,DMSO_pvp_con1_loop0_colloidal_jpg.rf.1e2b452869a3c932fe82daf3180a2083.jpg,colloidal,colloidal,laser,<loc0278><loc0419><loc0470><loc0607> laser,True
+80epoch_3b_448_resplit,methylacetate_pmma_con1_20h_colloidal_jpg.rf.5970497ee9ab39898ca9dd2fafd4306f.jpg,colloidal,colloidal,laser,<loc0556><loc0345><loc0681><loc0589> laser,True
+80epoch_3b_448_resplit,Chloroform_pvp_con1_loop1_colloidal_jpg.rf.05d5a0701682c45019f60b08201fad3b.jpg,colloidal,colloidal,laser,<loc0449><loc0416><loc0551><loc0601> laser,True
+80epoch_3b_448_resplit,1-4-dioxane_pcl_con1_colloidal_jpg.rf.87715b42761d416f698170d50430fd7f.jpg,colloidal,colloidal,laser,<loc0549><loc0349><loc0681><loc0589> laser,True
+80epoch_3b_448_resplit,water_pvp_con1_colloidal_jpg.rf.d3401dfd42d9fffe1029224d9acac5bb.jpg,colloidal,colloidal,laser,<loc0553><loc0345><loc0671><loc0594> laser,True
+80epoch_3b_448_resplit,dmso_methanol_pvp_con5_loop6_colloidal_jpg.rf.05d2328f58921e82f6d590e9450a82ae.jpg,colloidal,colloidal,laser,<loc0266><loc0422><loc0481><loc0610> laser,True
+80epoch_3b_448_resplit,peg600_toluene_con0_5_withoutlens_repeat_colloidal_jpg.rf.9be0ec4856e9d04b815193b14a3640b8.jpg,colloidal,colloidal,laser,<loc0461><loc0380><loc0551><loc0573> laser,True
+80epoch_3b_448_resplit,dmso_toluene_acetone_pvp_con5_loop6_colloidal_jpg.rf.33c1672820dc9f90c3fdb782fe2666fd.jpg,colloidal,colloidal,laser,<loc0275><loc0422><loc0484><loc0610> laser,True
+80epoch_3b_448_resplit,dmso_acetonitrile_pcl_con10_loop2_colloidal_jpg.rf.5930a03a30419fa4e7477f445727c109.jpg,colloidal,colloidal,laser,<loc0268><loc0413><loc0488><loc0602> laser,True
+80epoch_3b_448_resplit,dmso_acetone_pvp_con10_loop6_colloidal_jpg.rf.2e9128def8808a1ba600660472cb4da1.jpg,colloidal,colloidal,laser,<loc0261><loc0416><loc0484><loc0599> laser,True
+80epoch_3b_448_resplit,1-propanol_chloroform_pvp_con10_loop6_colloidal_jpg.rf.d192a2561f7b1ca522390fbe3fdba007.jpg,colloidal,colloidal,laser,<loc0265><loc0416><loc0483><loc0614> laser,True
+80epoch_3b_448_resplit,ethylacetate_pcl_con1_20h_lens_colloidal_jpg.rf.b505bd1dddbeee05f218ab5393480e88.jpg,colloidal,colloidal,laser,<loc0508><loc0328><loc0826><loc0581> laser,True
+80epoch_3b_448_resplit,toluene_pcl_con10_loop2_colloidal_jpg.rf.3e05e7d924c1f309c9a837c5e1281472.jpg,colloidal,colloidal,laser,<loc0298><loc0416><loc0482><loc0594> laser,True
+80epoch_3b_448_resplit,benzylalcohol_pcl_con1_20h_colloidal_jpg.rf.c3e916ebf009f4c47670bbb2dc1b5def.jpg,colloidal,colloidal,laser,<loc0551><loc0316><loc0699><loc0576> laser,True
+80epoch_3b_448_resplit,DMSO_Acetone_pvp_con1_loop1_colloidal_jpg.rf.c0f581dcdd7f204a1c9a234132d402a9.jpg,colloidal,colloidal,laser,<loc0418><loc0426><loc0551><loc0607> laser,True
+80epoch_3b_448_resplit,DMSO_pvp_con1_loop1_colloidal_jpg.rf.365bc90edc8aa1cfa399387e5db6f473.jpg,colloidal,colloidal,laser,<loc0455><loc0424><loc0543><loc0606> laser,True
+80epoch_3b_448_resplit,ethyleneglycol_pvp_con10_loop5_colloidal_jpg.rf.329de91c9a1b1293430f4b6992b733d4.jpg,colloidal,colloidal,laser,<loc0265><loc0419><loc0477><loc0606> laser,True
+80epoch_3b_448_resplit,acetonitrile_pcl_con10_loop2_colloidal_jpg.rf.177e5ef1b82c435fa78e5a03b020eea7.jpg,colloidal,colloidal,laser,<loc0265><loc0426><loc0469><loc0620> laser,True
+80epoch_3b_448_resplit,benzylalcohol_pvp_con1_colloidal_jpg.rf.c041ed6ad001cac37770121c41705ae2.jpg,colloidal,colloidal,laser,<loc0553><loc0337><loc0669><loc0589> laser,True
+80epoch_3b_448_resplit,pvp_ethanol_con0_7_colloidal_jpg.rf.ca2c39fb33dc5a03cb61a6fa4ce68049.jpg,colloidal,colloidal,laser,<loc0570><loc0360><loc0797><loc0523> laser,True
+80epoch_3b_448_resplit,DCM_pvp_con1_loop1_colloidal_jpg.rf.a09766515b1a4ed196103d9e770a1a62.jpg,colloidal,colloidal,laser,<loc0411><loc0424><loc0551><loc0604> laser,True
+80epoch_3b_448_resplit,chloroform_ps_con5_loop4_colloidal_jpg.rf.89a95c935770e1130da4e77bc82136c7.jpg,colloidal,colloidal,laser,<loc0271><loc0424><loc0476><loc0617> laser,True
+80epoch_3b_448_resplit,1-Propanol_Chloroform_pvp_con1_loop1_colloidal_jpg.rf.310d3f404543d42face162134938cb2b.jpg,colloidal,colloidal,laser,<loc0449><loc0417><loc0551><loc0605> laser,True
+80epoch_3b_448_resplit,dcm_ps_con5_loop4_colloidal_jpg.rf.b8144f326c5ed06354aa1c0a335e3583.jpg,colloidal,colloidal,laser,<loc0273><loc0417><loc0501><loc0605> laser,True
+80epoch_3b_448_resplit,benzylalcohol_pcl_con1_colloidal_jpg.rf.802765c77a95b11889aed5e7e0adaa2e.jpg,colloidal,colloidal,laser,<loc0557><loc0320><loc0676><loc0562> laser,True
+80epoch_3b_448_resplit,1butanol_pvp_con1_20h_lens_colloidal_jpg.rf.7235700454bc2eb1ebf97584095375c3.jpg,colloidal,soluble,, Мексичка,False
+80epoch_3b_448_resplit,ipa_pcl_con1_20h_insoluble_jpg.rf.1370e7e3ce3abd84ca2ce67f1e465b59.jpg,insoluble,insoluble,solid,<loc0834><loc0341><loc1023><loc0604> solid,True
+80epoch_3b_448_resplit,peg10k_ipa_con0_3_insoluble_jpg.rf.4ed4a74ede34a5d8b0d9d2f789d864ff.jpg,insoluble,insoluble,solid,<loc0865><loc0362><loc0989><loc0528> solid,True
+80epoch_3b_448_resplit,Toluene_Heptane_pvp_con1_loop0_insoluble_jpg.rf.95c5c453a2dad4c70ba3d4dd4a0fa23f.jpg,insoluble,insoluble,solid,<loc0690><loc0430><loc0883><loc0603> solid,True
+80epoch_3b_448_resplit,pva_ipa_con1_withoutlens_repeat_insoluble_jpg.rf.c5adac50f555d855cd03572846ab32bc.jpg,insoluble,insoluble,solid,<loc0699><loc0391><loc0836><loc0573> solid,True
+80epoch_3b_448_resplit,pmma_ipa_con0_3_withlens_repeat_insoluble_jpg.rf.6df891ff1052941a7461cef7756e432d.jpg,insoluble,insoluble,solid,<loc0742><loc0345><loc0856><loc0529> solid,True
+80epoch_3b_448_resplit,pmma_ipa_con0_7_insoluble_jpg.rf.966f981d08aea6a410e9ccf7ad6cfe10.jpg,insoluble,partialsoluble,laser;solid,<loc0884><loc0366><loc1005><loc0534> solid ; <loc0569><loc0363><loc0807><loc0532> laser,False
+80epoch_3b_448_resplit,ethanol_pcl_con1_20h_lens_insoluble_jpg.rf.b6359266a9af1692aa4f4817c83a2c19.jpg,insoluble,insoluble,solid,<loc0839><loc0349><loc1023><loc0606> solid,True
+80epoch_3b_448_resplit,peg10k_etoac_con0_1_insoluble_jpg.rf.b0200309790ce535374b3816a19df8f9.jpg,insoluble,insoluble,solid,<loc0881><loc0364><loc1005><loc0528> solid,True
+80epoch_3b_448_resplit,pcl_heptane_con0_3_insoluble_jpg.rf.24643288154949686e97d8bf198870f5.jpg,insoluble,soluble,,<loc0878><loc0356><loc1011> linkovi,False
+80epoch_3b_448_resplit,Iso-Propyl_Acetate_pvp_con1_loop0_insoluble_jpg.rf.56d961639980524ca41a482803127975.jpg,insoluble,insoluble,solid,<loc0659><loc0428><loc0855><loc0609> solid,True
+80epoch_3b_448_resplit,pvp_heptane_con0_7_insoluble_jpg.rf.934564377305bf0aa5ead12493e20a53.jpg,insoluble,soluble,,wikkel,False
+80epoch_3b_448_resplit,heptane_pcl_con10_loop2_insoluble_jpg.rf.795a793b179c46767773424e8d5ec30c.jpg,insoluble,insoluble,solid,<loc0676><loc0429><loc0848><loc0605> solid,True
+80epoch_3b_448_resplit,Heptane_pva_con1_loop1_insoluble_jpg.rf.814be41aa649e1580d7d0a291a7f4f55.jpg,insoluble,insoluble,solid,<loc0715><loc0434><loc0846><loc0605> solid,True
+80epoch_3b_448_resplit,1butanol_ps_con10_loop4_insoluble_jpg.rf.5f85c2adb242542a833f59defcd03628.jpg,insoluble,insoluble,solid,<loc0633><loc0438><loc0846><loc0610> solid,True
+80epoch_3b_448_resplit,dmso_pmma_con5_loop3_insoluble_jpg.rf.e062b62e64f8b634612d5305d920e81b.jpg,insoluble,soluble,,,False
+80epoch_3b_448_resplit,peg10k_toluene_con0_1_insoluble_jpg.rf.89e16031ae5a91a0f51c278b83c69154.jpg,insoluble,insoluble,solid,<loc0862><loc0368><loc1001><loc0534> solid,True
+80epoch_3b_448_resplit,ethyleneglycol_pmma_con10_loop3_insoluble_jpg.rf.c91ea8ffb8a69e5d492bde76f774d6a1.jpg,insoluble,insoluble,solid,<loc0640><loc0432><loc0846><loc0604> solid,True
+80epoch_3b_448_resplit,ps4ss_etoac_con1_insoluble_jpg.rf.c2c1809038df62173ec6ccf462f6d2cf.jpg,insoluble,insoluble,solid,<loc0816><loc0364><loc0994><loc0522> solid,True
+80epoch_3b_448_resplit,ps4ss_ethanol_con0_1_insoluble_jpg.rf.dc9ff71d06e7ff71e2c4063875dce20b.jpg,insoluble,insoluble,solid,<loc0877><loc0364><loc0971><loc0528> solid,True
+80epoch_3b_448_resplit,pcl_ipa_con0_3_insoluble_jpg.rf.f37e55e707b3dd6ef708a8c0a4f6335b.jpg,insoluble,insoluble,solid,<loc0874><loc0364><loc1010> o solid,True
+80epoch_3b_448_resplit,ps4ss_dcm_con1_insoluble_jpg.rf.e308345a1907ac32f6cdb69e4bd34f3e.jpg,insoluble,insoluble,solid,<loc0839><loc0366><loc0969><loc0522> solid,True
+80epoch_3b_448_resplit,acetonitrile_ps_con5_loop4_insoluble_jpg.rf.a4303369392a4d282a149dbeee32d783.jpg,insoluble,insoluble,solid,<loc0612><loc0426><loc0862><loc0610> solid,True
+80epoch_3b_448_resplit,pcl_ethanol_con0_7_insoluble_jpg.rf.4d4ae9816e32cae9dc7648a5ddf4f7d2.jpg,insoluble,insoluble,solid,<loc0877><loc0372><loc0988><loc0528> solid,True
+80epoch_3b_448_resplit,pvp_toluene_con0_3_insoluble_jpg.rf.b469a647813af4c1f44c27c78e584b0d.jpg,insoluble,insoluble,solid,<loc0868><loc0362><loc1000><loc0515> solid,True
+80epoch_3b_448_resplit,diethylether_pmma_con1_insoluble_jpg.rf.d77c044a55a5d5091e592eeee146233f.jpg,insoluble,insoluble,solid,<loc0676><loc0314><loc0816><loc0548> solid,True
+80epoch_3b_448_resplit,water_pmma_con1_20h_lens_insoluble_jpg.rf.ab9709057e4b995abb5bbcfa7a0712ca.jpg,insoluble,insoluble,solid,<loc0824><loc0348><loc1023><loc0602> solid,True
+80epoch_3b_448_resplit,butylbenzoate_pvp_con1_20h_insoluble_jpg.rf.9bb670bcde9b4b9fc4d3cd2c5fea687e.jpg,insoluble,insoluble,solid,<loc0839><loc0343><loc1023><loc0584> solid,True
+80epoch_3b_448_resplit,Iso-Propyl_Acetate_pvp_con1_loop1_insoluble_jpg.rf.f2e51820a39e44671578b1b8138a83e8.jpg,insoluble,insoluble,solid,<loc0652><loc0428><loc0844><loc0609> solid,True
+80epoch_3b_448_resplit,peg10k_ipa_con0_5_insoluble_jpg.rf.d1f51c9b30cfebc51011b6bc3ace6bf9.jpg,insoluble,insoluble,solid,<loc0874><loc0362><loc1006><loc0522> solid,True
+80epoch_3b_448_resplit,peg10k_toluene_con0_5_insoluble_jpg.rf.79603dac7963b5888193df7859fb6cc6.jpg,insoluble,insoluble,solid,<loc0862><loc0374><loc1001><loc0527> solid,True
+80epoch_3b_448_resplit,pva_heptane_con0_5_insoluble_jpg.rf.67654d1b2cff56fa61e1f7d6625d920e.jpg,insoluble,insoluble,solid,<loc0873><loc0359><loc0989><loc0518> solid,True
+80epoch_3b_448_resplit,2butanol_pcl_con1_20h_insoluble_jpg.rf.586cf6aeca87180ed7d06c0efb428d9a.jpg,insoluble,insoluble,solid,<loc0827><loc0364><loc1023><loc0605> solid,True
+80epoch_3b_448_resplit,pva_thf_con1_insoluble_jpg.rf.6c931d70cc589badc36b6e9d88a55c73.jpg,insoluble,insoluble,solid,<loc0855><loc0364><loc0994><loc0525> solid,True
+80epoch_3b_448_resplit,ps4ss_acetone_con0_5_insoluble_jpg.rf.d7deddfe4a466eb4d20f4d87a57e69d1.jpg,insoluble,insoluble,solid,<loc0845><loc0363><loc0980><loc0518> solid,True
+80epoch_3b_448_resplit,water_pcl_con1_insoluble_jpg.rf.8c8d75a3515e17a30ad1b4d490cf3820.jpg,insoluble,insoluble,solid,<loc0105><loc0317><loc0302><loc0568> solid,True
+80epoch_3b_448_resplit,heptane_pcl_con1_insoluble_jpg.rf.ebac920c3fb98d09715e71a7507d8d90.jpg,insoluble,insoluble,solid,<loc0830><loc0328><loc0004><loc0516> solid ; <loc0830><loc0328><loc1015><loc0572> solid,True
+80epoch_3b_448_resplit,pmma_ipa_con0_5_insoluble_jpg.rf.2e936a634fa5df253830ef055751cfdd.jpg,insoluble,insoluble,solid,<loc0874><loc0383><loc0998><loc0534> solid,True
+80epoch_3b_448_resplit,pva_acetone_con1_withoutlens_repeat_insoluble_jpg.rf.22873043240c44060719f1fd4f6e00e4.jpg,insoluble,soluble,,<loc0427>nisk,False
+80epoch_3b_448_resplit,pva_ipa_con0_5_insoluble_jpg.rf.0736f98c2b6e783bd8658095ac520cbd.jpg,insoluble,insoluble,solid,<loc0861><loc0366><loc1006><loc0531> solid,True
+80epoch_3b_448_resplit,2butanol_pmma_con1_insoluble_jpg.rf.d267f2b55d4b69aca467ecf37b998dfa.jpg,insoluble,insoluble,solid,<loc0122><loc0322><loc0802><loc0583> solid,True
+80epoch_3b_448_resplit,1-Butanol_pva_con1_loop1_insoluble_jpg.rf.10c0aba1f4e47b4b27b8047e3d2aac4b.jpg,partialsoluble,insoluble,solid,<loc0721><loc0424><loc0856><loc0601> solid,False
+80epoch_3b_448_resplit,ps_heptane_con0_3_insoluble_jpg.rf.dd2ef99c03c87ae25db19006e30e1d8c.jpg,insoluble,insoluble,solid,<loc0781><loc0368><loc1005><loc0527> solid,True
+80epoch_3b_448_resplit,pva_toluene_con0_1_insoluble_jpg.rf.69dbbce532d177e33b66e04090865467.jpg,insoluble,insoluble,solid,<loc0881><loc0354><loc1010><loc0518> solid,True
+80epoch_3b_448_resplit,heptane_pvp_con1_insoluble_jpg.rf.4a684aac40c7eeb5a932a6ea6a9ffc2b.jpg,insoluble,insoluble,solid,<loc0492><loc0358><loc1005><loc0606> solid,True
+80epoch_3b_448_resplit,pva_ipa_con0_1_insoluble_jpg.rf.296371257ffae8ed7720dbf510953f2d.jpg,insoluble,insoluble,solid,<loc0874><loc0356><loc1004><loc0512> solid,True
+80epoch_3b_448_resplit,ethyleneglycol_pmma_con5_loop3_insoluble_jpg.rf.b42caadd73a8e83250a11fcf2882e1b3.jpg,insoluble,insoluble,solid,<loc0676><loc0434><loc0866><loc0605> solid,True
+80epoch_3b_448_resplit,ps_heptane_con0_7_insoluble_jpg.rf.9269838b12df55df606a371fc870a6a8.jpg,insoluble,insoluble,solid,<loc0873><loc0362><loc0994><loc0518> solid,True
+80epoch_3b_448_resplit,peg10k_etoac_con0_3_insoluble_jpg.rf.14347e2e829b949ceb3b3bac4ca9584a.jpg,insoluble,soluble,,<loc0876><loc0364> chome,False
+80epoch_3b_448_resplit,diethylether_pmma_con5_loop3_insoluble_jpg.rf.4a27b8ce871d3695cd8e695aae91884f.jpg,insoluble,partialsoluble,laser;solid,<loc0285><loc0413><loc0479><loc0606> laser ; <loc0672><loc0433><loc0866><loc0603> solid,False
+80epoch_3b_448_resplit,pva_etoac_con1_insoluble_jpg.rf.876f3d2e948b0f307d02878abf408418.jpg,insoluble,insoluble,solid,<loc0873><loc0364><loc0985><loc0520> solid,True
+80epoch_3b_448_resplit,thf_pvp_con1_gellike_partialsoluble_jpg.rf.1a74ac94c31fc8e8d3c082bc6c561ab4.jpg,partialsoluble,partialsoluble,laser;solid,<loc0830><loc0348><loc1003><loc0582> solid ; <loc0549><loc0346><loc0671><loc0576> laser,True
+80epoch_3b_448_resplit,pmma_water_con0_3_partialsoluble_jpg.rf.f8f54ddac3d6fda4696b58e9fd3a4e98.jpg,partialsoluble,partialsoluble,laser;solid,<loc0567><loc0364><loc0797><loc0526> laser ; <loc0270><loc0356><loc0496><loc0522> solid,True
+80epoch_3b_448_resplit,dmso_acetonitrile_ps_con10_loop4_partialsoluble_jpg.rf.7dab2ba11b8523f73294ea6f8c1e7d3c.jpg,partialsoluble,partialsoluble,laser;solid,<loc0606><loc0419><loc0701><loc0603> solid ; <loc0260><loc0416><loc0483><loc0607> laser,True
+80epoch_3b_448_resplit,DMSO_Acetonitrile_pva_con1_loop1_partialsoluble_jpg.rf.062af50eff431e70e4544269880b4b03.jpg,partialsoluble,partialsoluble,laser;solid,<loc0709><loc0434><loc0855><loc0610> solid ; <loc0433><loc0420><loc0559><loc0609> laser,True
+80epoch_3b_448_resplit,DMSO_Toluene_pva_con1_loop0_partialsoluble_jpg.rf.2433ff476b5e5f974bc8c1b6e576773d.jpg,partialsoluble,partialsoluble,laser;solid,<loc0258><loc0412><loc0488><loc0607> laser ; <loc0662><loc0426><loc0851><loc0602> solid,True
+80epoch_3b_448_resplit,acetone_ps_con5_loop4_partialsoluble_jpg.rf.5341bc02f45a8752edf9cedea34d5ed6.jpg,partialsoluble,colloidal,laser,<loc0271><loc0420><loc0484><loc0606> laser,False
+80epoch_3b_448_resplit,DCM_Diethylether_pva_con1_loop0_partialsoluble_jpg.rf.1e8da502415aa63b9f00c588cb0da711.jpg,partialsoluble,partialsoluble,laser;solid,<loc0681><loc0434><loc0853><loc0616> solid ; <loc0272><loc0414><loc0482><loc0610> laser,True
+80epoch_3b_448_resplit,dmso_methanol_pcl_con5_loop2_partialsoluble_jpg.rf.ad07d6915b4a257d849c4ca616daa062.jpg,partialsoluble,partialsoluble,laser;solid,<loc0274><loc0416><loc0497><loc0608> laser ; <loc0678><loc0426><loc0871><loc0605> solid,True
+80epoch_3b_448_resplit,pmma_ethanol_con1_partialsoluble_jpg.rf.12710f4cba9d8f31efda48ef2ee8eb12.jpg,partialsoluble,partialsoluble,laser;solid,<loc0362><loc0362><loc0404><loc0526> solid ; <loc0559><loc0366><loc0787><loc0532> laser,True
+80epoch_3b_448_resplit,pmma_ethanol_con0_7_partialsoluble_jpg.rf.96e7af1d47721ca705272d061a9e6204.jpg,partialsoluble,partialsoluble,laser;solid,<loc0576><loc0361><loc0800><loc0516> laser ; <loc0899><loc0358><loc1023><loc0514> solid,True
+80epoch_3b_448_resplit,1propanol_chloroform_ps_con5_loop4_partialsoluble_jpg.rf.2d043556a86bde9e2e584cfd45255ebf.jpg,partialsoluble,partialsoluble,laser;solid,<loc0640><loc0456><loc0864><loc0632> solid ; <loc0265><loc0430><loc0482><loc0624> laser,True
+80epoch_3b_448_resplit,1-4dioxane_pmma_con1_gellike_partialsoluble_jpg.rf.3c86bd55da63cdf05142f4ba89c81cdd.jpg,partialsoluble,partialsoluble,laser;solid,<loc0554><loc0326><loc0680><loc0568> laser ; <loc0817><loc0334><loc0989><loc0572> solid,True
+80epoch_3b_448_resplit,dmso_acetonitrile_ps_con5_loop4_partialsoluble_jpg.rf.e724925f7f5a827bccc0dc365da1c439.jpg,partialsoluble,partialsoluble,laser;solid,<loc0640><loc0426><loc0773><loc0590> solid ; <loc0255><loc0413><loc0483><loc0602> laser,True
+80epoch_3b_448_resplit,benzylalcohol_ps_con5_loop4_partialsoluble_jpg.rf.d4ac0f9770ef4d2a024c9ac316d49696.jpg,partialsoluble,partialsoluble,laser;solid,<loc0273><loc0418><loc0480><loc0616> laser ; <loc0678><loc0435><loc0862><loc0616> solid,True
+80epoch_3b_448_resplit,pvp_thf_con0_7_partialsoluble_jpg.rf.bf14c522a724a2974123e9da18d6500f.jpg,partialsoluble,insoluble,solid,<loc0864><loc0368><loc0994><loc0528> solid,False
+80epoch_3b_448_resplit,DMSO_Acetone_pva_con1_loop0_partialsoluble_jpg.rf.2cb16cd08ffca41a0703ac5b7ae403ec.jpg,partialsoluble,partialsoluble,laser;solid,<loc0682><loc0434><loc0863><loc0606> solid ; <loc0297><loc0422><loc0481><loc0612> laser,True
+80epoch_3b_448_resplit,dmso_acetone_pmma_con10_loop3_partialsoluble_jpg.rf.f4acfe0c765011e5daf28fd3e30c7d82.jpg,partialsoluble,partialsoluble,laser;solid,<loc0258><loc0417><loc0490><loc0616> laser ; <loc0661><loc0434><loc0864><loc0611> solid,True
+80epoch_3b_448_resplit,peg600_ethanol_con0_3_soluble_jpg.rf.07c82d08f05b45204331f6a1d724907c.jpg,soluble,soluble,,,True
+80epoch_3b_448_resplit,peg600_ethanol_con0_7_soluble_jpg.rf.9305131787a16501217ed5e2c8d4be49.jpg,soluble,soluble,,,True
+80epoch_3b_448_resplit,1butanol_20h_lens_soluble_jpg.rf.3b6a86fb4f128e488edf78584da4ac20.jpg,soluble,soluble,,,True
+80epoch_3b_448_resplit,pdms_thf_con1_soluble_jpg.rf.c87ca63bb42f20de0c8ee07fc884900a.jpg,soluble,soluble,,,True
+80epoch_3b_448_resplit,pdms_etoac_con1_soluble_jpg.rf.3f3f8a39119dbbeb8163b617da5528f0.jpg,soluble,soluble,,,True
+80epoch_3b_448_resplit,pcl_thf_con0_1_soluble_jpg.rf.4d1490bcd9982f2216e5131b3f91f118.jpg,soluble,soluble,,,True
+80epoch_3b_448_resplit,peg600_dcm_con1_soluble_jpg.rf.41f807113113fae7c30b9a2fec0ffe7a.jpg,soluble,soluble,,,True
+80epoch_3b_448_resplit,benzylalcohol_pvp_con1_20h_lens_soluble_jpg.rf.ea3134f2343e2b2b5d61c18e7a5f40b4.jpg,soluble,colloidal,laser,<loc0534><loc0334><loc0795><loc0589> laser,False
+80epoch_3b_448_resplit,peg600_thf_con1_soluble_jpg.rf.cdb5f18b29187f626cd856f8ec4b5978.jpg,soluble,soluble,,,True
+80epoch_3b_448_resplit,pdms_thf_con0_1_soluble_jpg.rf.35c0ac1abb0b9bfd0498fb174cae1fab.jpg,soluble,soluble,,,True
+80epoch_3b_448_resplit,peg10k_water_con0_3_soluble_jpg.rf.057d697e206e66cf6fc0ba3e320f80b7.jpg,soluble,soluble,,,True
+80epoch_3b_448_resplit,pcl_thf_con0_5_soluble_jpg.rf.3d821dd88cea033331b4ec9a92e6067a.jpg,soluble,soluble,,,True
+80epoch_3b_448_resplit,pvp_ipa_con0_3_soluble_jpg.rf.55f037fea6cc4a768d9f9c50e6b9bb75.jpg,soluble,soluble,,,True
+80epoch_3b_448_resplit,pcl_etoac_con0_3_soluble_jpg.rf.39f884b3838456762065fae1575ad7f2.jpg,soluble,soluble,,,True

@@ -1,0 +1,4 @@
+checkpoint,model_id,checkpoint_path,total,correct,incorrect,accuracy,accuracy_percent,soluble_accuracy,colloidal_accuracy,partialsoluble_accuracy,insoluble_accuracy
+40epoch_10b_224_resplit,google/paligemma2-10b-pt-224,C:\gemma_solubility\check_point\paligemma2_OD_40epoch_10b_224_resplit\checkpoint-6560,127,108,19,0.8503937007874016,85.03937007874016,0.8571428571428571,0.8913043478260869,0.7777777777777778,0.8367346938775511
+80epoch_3b_224,google/paligemma2-3b-pt-224,C:\gemma_solubility\check_point\paligemma2_OD_80epoch_3b\checkpoint-12800,127,123,4,0.968503937007874,96.8503937007874,1.0,1.0,0.8888888888888888,0.9591836734693877
+80epoch_3b_448_resplit,google/paligemma2-3b-pt-448,C:\gemma_solubility\check_point\paligemma2_OD_80epoch_3b_448_resplit\checkpoint-6560,127,113,14,0.889763779527559,88.9763779527559,0.9285714285714286,0.9347826086956522,0.8333333333333334,0.8571428571428571
